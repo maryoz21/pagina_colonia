@@ -1,0 +1,3308 @@
+[
+  {
+    "matchID": 14012,
+    "matchDateTime": "2011-08-06T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-08-06T13:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 12574
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-08-12T21:58:51.947",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 21170,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 21171,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 5542,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 17,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5555,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 85,
+        "goalGetterID": 711,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5557,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 90,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 47000
+  },
+  {
+    "matchID": 14018,
+    "matchDateTime": "2011-08-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-08-13T13:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 12575
+    },
+    "team1": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-08-15T20:16:24.647",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 21296,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 21302,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 5629,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 12,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5635,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 1207,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5636,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 47,
+        "goalGetterID": 1207,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5637,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 48,
+        "goalGetterID": 1116,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5641,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 59,
+        "goalGetterID": 1490,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5646,
+        "scoreTeam1": 5,
+        "scoreTeam2": 1,
+        "matchMinute": 84,
+        "goalGetterID": 1207,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 403,
+      "locationCity": "Gelsenkirchen",
+      "locationStadium": "Veltins-Arena"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14032,
+    "matchDateTime": "2011-08-20T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-08-20T16:30:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 12576
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-08-21T14:14:54.733",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 21423,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 21424,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 5751,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 17,
+        "goalGetterID": 205,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5752,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 19,
+        "goalGetterID": 1932,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 47200
+  },
+  {
+    "matchID": 14037,
+    "matchDateTime": "2011-08-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-08-27T13:30:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 12577
+    },
+    "team1": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-08-27T17:19:53.717",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 21537,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 21542,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 5835,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 11,
+        "goalGetterID": 37,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5841,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 21,
+        "goalGetterID": 409,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5849,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 49,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5852,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 59,
+        "goalGetterID": 2291,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5855,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 63,
+        "goalGetterID": 1582,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5861,
+        "scoreTeam1": 3,
+        "scoreTeam2": 3,
+        "matchMinute": 83,
+        "goalGetterID": 1652,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 5862,
+        "scoreTeam1": 3,
+        "scoreTeam2": 4,
+        "matchMinute": 87,
+        "goalGetterID": 1431,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14049,
+    "matchDateTime": "2011-09-11T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-09-11T13:30:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 12578
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 79,
+      "teamName": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-09-11T16:10:35.777",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 21875,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 21876,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 6187,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 31,
+        "goalGetterID": 1575,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6188,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 36,
+        "goalGetterID": 1575,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6189,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 39,
+        "goalGetterID": 409,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14053,
+    "matchDateTime": "2011-09-17T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-09-17T13:30:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 12579
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-09-23T14:15:58.44",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 22023,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 22028,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 6289,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 44,
+        "goalGetterID": 898,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6290,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 47,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6292,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 54,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6297,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 70,
+        "goalGetterID": 511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6300,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 90,
+        "goalGetterID": 1932,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 28,
+      "locationCity": "Leverkusen",
+      "locationStadium": "BayArena"
+    },
+    "numberOfViewers": 30210
+  },
+  {
+    "matchID": 14067,
+    "matchDateTime": "2011-09-25T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-09-25T13:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 12580
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 123,
+      "teamName": "TSG 1899 Hoffenheim",
+      "shortName": "TSG 1899 Hoffenheim",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/TSG_Hoffenheim.gif",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-09-25T17:57:28.59",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 22197,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 22198,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 6483,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 20,
+        "goalGetterID": 1932,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6484,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 64,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 45500
+  },
+  {
+    "matchID": 14079,
+    "matchDateTime": "2011-10-01T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-10-01T16:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 12581
+    },
+    "team1": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-10-01T19:10:57.08",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 22435,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 22436,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 6624,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 14,
+        "goalGetterID": 1757,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6625,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 26,
+        "goalGetterID": 1757,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 6626,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 34,
+        "goalGetterID": 60,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14086,
+    "matchDateTime": "2011-10-16T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-10-16T15:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 12582
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-10-16T19:20:43.677",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 22768,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 22769,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 6883,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 24,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 6884,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 86,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 52,
+      "locationCity": "",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14089,
+    "matchDateTime": "2011-10-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-10-22T13:30:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 12583
+    },
+    "team1": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-10-22T17:21:25.33",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 22912,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 22913,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 6959,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 7,
+        "goalGetterID": 1452,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 6961,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 25,
+        "goalGetterID": 1441,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 6963,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 44,
+        "goalGetterID": 1478,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 6964,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 50,
+        "goalGetterID": 1478,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 6967,
+        "scoreTeam1": 5,
+        "scoreTeam2": 0,
+        "matchMinute": 66,
+        "goalGetterID": 1115,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14104,
+    "matchDateTime": "2011-10-30T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-10-30T14:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 12584
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-10-30T20:39:31.963",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 23390,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 23389,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 7460,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 19,
+        "goalGetterID": 3217,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 7461,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 24,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 7464,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 56,
+        "goalGetterID": 3223,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14109,
+    "matchDateTime": "2011-11-05T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-11-05T14:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 12585
+    },
+    "team1": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-11-05T19:14:50.4",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 23679,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 23678,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 7645,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 3,
+        "goalGetterID": 1652,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 7646,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 45,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 7647,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 49,
+        "goalGetterID": 309,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 7649,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 54,
+        "goalGetterID": 309,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 7651,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 86,
+        "goalGetterID": 309,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14131,
+    "matchDateTime": "2011-11-25T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-11-25T19:30:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 12587
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-11-25T21:38:17.403",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 24070,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 24071,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 7987,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 20,
+        "goalGetterID": 1623,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 7988,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 30,
+        "goalGetterID": 90,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 7989,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 47,
+        "goalGetterID": 1623,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14140,
+    "matchDateTime": "2011-12-03T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-12-03T17:30:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 12588
+    },
+    "team1": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-12-03T20:21:42.133",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 24311,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 24312,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 8077,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 15,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8078,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 29,
+        "goalGetterID": 873,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8079,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 35,
+        "goalGetterID": 873,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8081,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 88,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14149,
+    "matchDateTime": "2011-12-10T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-12-10T14:30:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 12589
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-12-10T17:04:09.653",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 24508,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 24509,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 8141,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 20,
+        "goalGetterID": 1652,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8142,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 60,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8144,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 65,
+        "goalGetterID": 1652,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8148,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 73,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14122,
+    "matchDateTime": "2011-12-13T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-12-13T19:30:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 12586
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-12-13T22:28:33.603",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 24650,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 24648,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 8196,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 70,
+        "goalGetterID": 64,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 8198,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 85,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14153,
+    "matchDateTime": "2011-12-16T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2011-12-16T19:30:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 12590
+    },
+    "team1": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2011-12-16T22:17:07.627",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 24662,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 24663,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 8204,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 48,
+        "goalGetterID": 228,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8205,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 63,
+        "goalGetterID": 382,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8206,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 88,
+        "goalGetterID": 934,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14169,
+    "matchDateTime": "2012-01-21T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-01-21T14:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 12591
+    },
+    "team1": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-01-21T17:21:48.98",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 25192,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 25194,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 8497,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 78,
+        "goalGetterID": 3877,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14171,
+    "matchDateTime": "2012-01-28T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-01-28T17:30:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 12592
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-01-30T10:27:37.477",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 25461,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 25413,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 8674,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 4,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 8676,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 60,
+        "goalGetterID": 1032,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 8677,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 72,
+        "goalGetterID": 1032,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 8679,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 78,
+        "goalGetterID": 1207,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 8721,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 82,
+        "goalGetterID": 1363,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14185,
+    "matchDateTime": "2012-02-05T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-02-05T16:30:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 12593
+    },
+    "team1": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-02-09T13:13:15.963",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 25579,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 25580,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 8830,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 72,
+        "goalGetterID": 4122,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 437,
+      "locationCity": "Kaiserslautern",
+      "locationStadium": "Fritz-Walter-Stadion"
+    },
+    "numberOfViewers": 38043
+  },
+  {
+    "matchID": 14190,
+    "matchDateTime": "2012-02-12T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-02-12T16:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 12594
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-02-12T19:22:17.787",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 25890,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 25891,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 9103,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 88,
+        "goalGetterID": 18618,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 495,
+      "locationCity": "Köln",
+      "locationStadium": "ReinEnergieStadion"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14202,
+    "matchDateTime": "2012-02-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-02-18T14:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 12595
+    },
+    "team1": {
+      "teamId": 79,
+      "teamName": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-02-18T17:38:19.473",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 26012,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 25985,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 9165,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 28,
+        "goalGetterID": 1424,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 9194,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 66,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 9201,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 85,
+        "goalGetterID": 2205,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 486,
+      "locationCity": "Nürnberg",
+      "locationStadium": "easyCredit-Stadion"
+    },
+    "numberOfViewers": 42000
+  },
+  {
+    "matchID": 14206,
+    "matchDateTime": "2012-02-25T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-02-25T14:30:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 12596
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-02-25T17:23:22.177",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 26166,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 26167,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 9352,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 16,
+        "goalGetterID": 935,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 9355,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 51,
+        "goalGetterID": 935,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 495,
+      "locationCity": "Köln",
+      "locationStadium": "ReinEnergieStadion"
+    },
+    "numberOfViewers": 48000
+  },
+  {
+    "matchID": 14220,
+    "matchDateTime": "2012-03-04T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-03-04T16:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 12597
+    },
+    "team1": {
+      "teamId": 123,
+      "teamName": "TSG 1899 Hoffenheim",
+      "shortName": "TSG 1899 Hoffenheim",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/TSG_Hoffenheim.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-03-16T21:20:00.223",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 26424,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 26425,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 9610,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 33,
+        "goalGetterID": 4693,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Kommentar"
+      },
+      {
+        "goalID": 9611,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 80,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 511,
+      "locationCity": "Sinsheim",
+      "locationStadium": "WIRSOL Rhein-Neckar-Arena"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14233,
+    "matchDateTime": "2012-03-10T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-03-10T14:30:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 12598
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-03-10T19:18:21.827",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 26555,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 26556,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 9794,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 36,
+        "goalGetterID": 1652,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 45000
+  },
+  {
+    "matchID": 14241,
+    "matchDateTime": "2012-03-18T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-03-18T16:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 12599
+    },
+    "team1": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-03-31T18:08:37.963",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 26865,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 26866,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 10159,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 19,
+        "goalGetterID": 637,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10160,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 43,
+        "goalGetterID": 1066,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10165,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 61,
+        "goalGetterID": 1028,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10166,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 67,
+        "goalGetterID": 484,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10167,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 83,
+        "goalGetterID": 484,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 425,
+      "locationCity": "Hannover",
+      "locationStadium": "AWD-Arena"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14244,
+    "matchDateTime": "2012-03-25T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-03-25T15:30:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 12600
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-03-31T18:04:52.013",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 27099,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 6,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 27100,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 10402,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 12,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10406,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 26,
+        "goalGetterID": 404,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10407,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 47,
+        "goalGetterID": 1452,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10408,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 52,
+        "goalGetterID": 1478,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10423,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 78,
+        "goalGetterID": 78,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10425,
+        "scoreTeam1": 1,
+        "scoreTeam2": 5,
+        "matchMinute": 80,
+        "goalGetterID": 1452,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10426,
+        "scoreTeam1": 1,
+        "scoreTeam2": 6,
+        "matchMinute": 84,
+        "goalGetterID": 2588,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14259,
+    "matchDateTime": "2012-03-31T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-03-31T13:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 12601
+    },
+    "team1": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-03-31T18:15:50",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 27258,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 27259,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 10583,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 19,
+        "goalGetterID": 5288,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10585,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10591,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 45,
+        "goalGetterID": 1088,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 494,
+      "locationCity": "Augsburg",
+      "locationStadium": "SGL Arena"
+    },
+    "numberOfViewers": 30660
+  },
+  {
+    "matchID": 14264,
+    "matchDateTime": "2012-04-07T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-04-07T13:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 12602
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-04-07T17:20:11.113",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 27439,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 27440,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 10782,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 22,
+        "goalGetterID": 985,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 10786,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 39,
+        "goalGetterID": 5379,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14277,
+    "matchDateTime": "2012-04-10T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-04-10T18:00:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 12603
+    },
+    "team1": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-04-10T21:15:35.487",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 27653,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 27654,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 11001,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 19,
+        "goalGetterID": 1026,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11003,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 32,
+        "goalGetterID": 87,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11006,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 36,
+        "goalGetterID": 1457,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11007,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 54,
+        "goalGetterID": 5583,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14285,
+    "matchDateTime": "2012-04-15T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-04-15T13:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 12604
+    },
+    "team1": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-04-15T17:20:13.797",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 27882,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 27883,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 11244,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 19,
+        "goalGetterID": 90,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 11245,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 54,
+        "goalGetterID": 5750,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11246,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 55,
+        "goalGetterID": 357,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 444,
+      "locationCity": "Mönchengladbach",
+      "locationStadium": "Borussia-Park"
+    },
+    "numberOfViewers": 53000
+  },
+  {
+    "matchID": 14295,
+    "matchDateTime": "2012-04-21T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-04-21T13:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 12605
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-04-24T19:00:28.24",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 27962,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 27963,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 11346,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 50,
+        "goalGetterID": 3223,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 11354,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 71,
+        "goalGetterID": 81,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 14304,
+    "matchDateTime": "2012-04-28T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-04-28T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 12606
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-04-30T07:55:41.977",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 28152,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 28153,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 11509,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 36,
+        "goalGetterID": 1622,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11513,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 47,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11515,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 54,
+        "goalGetterID": 5119,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11522,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 84,
+        "goalGetterID": 1678,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11527,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 91,
+        "goalGetterID": 653,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 14308,
+    "matchDateTime": "2012-05-05T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 307,
+    "leagueName": "1. Fussball-Bundesliga 2011/2012",
+    "leagueSeason": 2011,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2012-05-05T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 12607
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2012-05-07T07:46:37.847",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 28365,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 28366,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit (bitte laufend eintragen. Waehrend laufender erster Halbzeit immer Halbzeit- und Endergebnis eintragen!)"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 11771,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 34,
+        "goalGetterID": 514,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11776,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 52,
+        "goalGetterID": 1033,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11777,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 54,
+        "goalGetterID": 1876,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11785,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 63,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 11793,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 85,
+        "goalGetterID": 514,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

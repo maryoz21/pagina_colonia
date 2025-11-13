@@ -1,0 +1,3117 @@
+[
+  {
+    "matchID": 39652,
+    "matchDateTime": "2016-08-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-08-27T13:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 23833
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 118,
+      "teamName": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-09-19T23:11:39.427",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 67836,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 67921,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 53242,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 11,
+        "goalGetterID": 14624,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 53260,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 61,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 788,
+      "locationCity": "Köln",
+      "locationStadium": "Rheinenergie Stadion"
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 39660,
+    "matchDateTime": "2016-09-10T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-09-10T13:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 23834
+    },
+    "team1": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-09-19T23:17:48.987",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 68007,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 68014,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 435,
+      "locationCity": "Wolfsburg",
+      "locationStadium": "Volkswagen-Arena"
+    },
+    "numberOfViewers": 29067
+  },
+  {
+    "matchID": 39670,
+    "matchDateTime": "2016-09-16T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-09-16T18:30:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 23835
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-09-21T22:38:46.627",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 68370,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 68283,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 53666,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 29,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 53667,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 31,
+        "goalGetterID": 16106,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 53668,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 43,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 788,
+      "locationCity": "Köln",
+      "locationStadium": "Rheinenergie Stadion"
+    },
+    "numberOfViewers": 46000
+  },
+  {
+    "matchID": 39677,
+    "matchDateTime": "2016-09-21T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-09-21T18:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 23836
+    },
+    "team1": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-09-21T22:32:58.823",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 68498,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 68507,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 53909,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 36,
+        "goalGetterID": 8225,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 53910,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 38,
+        "goalGetterID": 13706,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 53915,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 77,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 53916,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 83,
+        "goalGetterID": 9275,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 39687,
+    "matchDateTime": "2016-09-25T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-09-25T15:30:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 23837
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1635,
+      "teamName": "RB Leipzig",
+      "shortName": "Leipzig",
+      "teamIconUrl": "https://i.imgur.com/Rpwsjz1.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-09-25T19:37:35.837",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 68653,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 68654,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 54058,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 5,
+        "goalGetterID": 16124,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 54059,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 25,
+        "goalGetterID": 13706,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 788,
+      "locationCity": "Köln",
+      "locationStadium": "Rheinenergie Stadion"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 39693,
+    "matchDateTime": "2016-10-01T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-10-01T13:30:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 23838
+    },
+    "team1": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-10-02T19:51:34.89",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 68844,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 68856,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 54228,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 40,
+        "goalGetterID": 15977,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 54240,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 63,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 34,
+      "locationCity": "München",
+      "locationStadium": "Allianz Arena"
+    },
+    "numberOfViewers": 75000
+  },
+  {
+    "matchID": 39706,
+    "matchDateTime": "2016-10-15T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-10-15T13:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 23839
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 171,
+      "teamName": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/FC-Ingolstadt_logo.svg/125px-FC-Ingolstadt_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-10-18T18:06:11.297",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 69175,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 69180,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 54517,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 28,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 54518,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 38,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 54526,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 90,
+        "goalGetterID": 14665,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Elfmeter"
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 49200
+  },
+  {
+    "matchID": 39714,
+    "matchDateTime": "2016-10-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-10-22T13:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 23840
+    },
+    "team1": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-10-23T16:06:10.747",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 69485,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 69510,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 54822,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 13,
+        "goalGetterID": 1479,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 54842,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 65,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 54847,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 74,
+        "goalGetterID": 16173,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 22,
+      "locationCity": "Berlin",
+      "locationStadium": "Olympiastadion"
+    },
+    "numberOfViewers": 60000
+  },
+  {
+    "matchID": 39724,
+    "matchDateTime": "2016-10-30T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-10-30T16:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 23841
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-10-30T21:38:45.627",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 69824,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 69825,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 55129,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 61,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 55130,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 82,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 55131,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 86,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 52,
+      "locationCity": "",
+      "locationStadium": ""
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 39735,
+    "matchDateTime": "2016-11-05T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-11-05T17:30:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 23842
+    },
+    "team1": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-11-06T12:26:29.93",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 70021,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 70022,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 55309,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 5,
+        "goalGetterID": 16194,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 183,
+      "locationCity": "Frankfurt",
+      "locationStadium": "Commerzbank-Arena"
+    },
+    "numberOfViewers": 51500
+  },
+  {
+    "matchID": 39740,
+    "matchDateTime": "2016-11-19T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-11-19T14:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 23843
+    },
+    "team1": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-11-24T19:58:02.377",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 70267,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 70280,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 55559,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 32,
+        "goalGetterID": 7445,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 55566,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 59,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 55577,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 90,
+        "goalGetterID": 14624,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 444,
+      "locationCity": "Mönchengladbach",
+      "locationStadium": "Borussia-Park"
+    },
+    "numberOfViewers": 53757
+  },
+  {
+    "matchID": 39751,
+    "matchDateTime": "2016-11-26T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-11-26T14:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 23844
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-11-26T17:21:51.423",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 70384,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 70391,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 39763,
+    "matchDateTime": "2016-12-03T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-12-03T14:30:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 23845
+    },
+    "team1": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-12-10T16:04:05.287",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 70704,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 70705,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 56064,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 8,
+        "goalGetterID": 16060,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 56071,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 39,
+        "goalGetterID": 15498,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 56096,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 67,
+        "goalGetterID": 16060,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 56100,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 89,
+        "goalGetterID": 15596,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 511,
+      "locationCity": "Sinsheim",
+      "locationStadium": "WIRSOL Rhein-Neckar-Arena"
+    },
+    "numberOfViewers": 29740
+  },
+  {
+    "matchID": 39769,
+    "matchDateTime": "2016-12-10T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-12-10T14:30:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 23846
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-12-10T21:24:55.003",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 70929,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 70944,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 56310,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 28,
+        "goalGetterID": 8055,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 56317,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 90,
+        "goalGetterID": 3426,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 39779,
+    "matchDateTime": "2016-12-17T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-12-17T14:30:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 23847
+    },
+    "team1": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-12-17T17:22:07.773",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 71249,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 71254,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 56347,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 30,
+        "goalGetterID": 8055,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 56349,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 16086,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 492,
+      "locationCity": "Bremen",
+      "locationStadium": "Weser-Stadion"
+    },
+    "numberOfViewers": 40000
+  },
+  {
+    "matchID": 39787,
+    "matchDateTime": "2016-12-21T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2016-12-21T19:00:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 23848
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2016-12-21T22:06:22.487",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 71359,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 71368,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 56417,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 21,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 56426,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 44,
+        "goalGetterID": 14955,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 39794,
+    "matchDateTime": "2017-01-22T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-01-22T16:30:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 23849
+    },
+    "team1": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-01-22T20:45:46.697",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 71833,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 71840,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 56661,
+        "scoreTeam1": 0,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 39806,
+    "matchDateTime": "2017-01-28T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-01-28T14:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 23850
+    },
+    "team1": {
+      "teamId": 118,
+      "teamName": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-01-29T20:37:12.023",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 72269,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 72288,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 6,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 57236,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 32,
+        "goalGetterID": 1420,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57237,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 37,
+        "goalGetterID": 14205,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57239,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 42,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57254,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 66,
+        "goalGetterID": 1102,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57262,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 72,
+        "goalGetterID": 14205,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57266,
+        "scoreTeam1": 1,
+        "scoreTeam2": 5,
+        "matchMinute": 85,
+        "goalGetterID": 13735,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57267,
+        "scoreTeam1": 1,
+        "scoreTeam2": 6,
+        "matchMinute": 89,
+        "goalGetterID": 7446,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 1080,
+      "locationCity": "Darmstadt",
+      "locationStadium": "Jonathan-Heimes-Stadion am Böllenfalltor"
+    },
+    "numberOfViewers": 17400
+  },
+  {
+    "matchID": 39815,
+    "matchDateTime": "2017-02-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-02-04T14:30:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 23851
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-02-04T17:52:16.03",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 72412,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 72415,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 57381,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 81,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 48000
+  },
+  {
+    "matchID": 39826,
+    "matchDateTime": "2017-02-12T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-02-12T16:30:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 23852
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-02-12T19:27:16.257",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 72710,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 72712,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 57591,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 33,
+        "goalGetterID": 16153,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57592,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 39,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57593,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 77,
+        "goalGetterID": 14878,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 966,
+      "locationCity": "Freiburg",
+      "locationStadium": "Schwarzwald-Stadion"
+    },
+    "numberOfViewers": 24000
+  },
+  {
+    "matchID": 39834,
+    "matchDateTime": "2017-02-19T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-02-19T16:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 23853
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-02-19T20:46:19.86",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 72851,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 72852,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 57686,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 2,
+        "goalGetterID": 14603,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57687,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 43,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 39845,
+    "matchDateTime": "2017-02-25T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-02-25T14:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 23854
+    },
+    "team1": {
+      "teamId": 1635,
+      "teamName": "RB Leipzig",
+      "shortName": "Leipzig",
+      "teamIconUrl": "https://i.imgur.com/Rpwsjz1.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-02-28T19:43:34.267",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 72937,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 72939,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 57727,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 5,
+        "goalGetterID": 16078,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57743,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 34,
+        "goalGetterID": 3878,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57750,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 53,
+        "goalGetterID": 14205,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57751,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 65,
+        "goalGetterID": 16080,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 478,
+      "locationCity": "Leipzig",
+      "locationStadium": "Red Bull Arena"
+    },
+    "numberOfViewers": 39335
+  },
+  {
+    "matchID": 39853,
+    "matchDateTime": "2017-03-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-03-04T14:30:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 23855
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-03-04T17:20:42.48",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 73101,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 73116,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 57859,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 25,
+        "goalGetterID": 9943,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57874,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 48,
+        "goalGetterID": 14848,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 57885,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 89,
+        "goalGetterID": 11847,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 39860,
+    "matchDateTime": "2017-03-11T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-03-11T17:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 23856
+    },
+    "team1": {
+      "teamId": 171,
+      "teamName": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/FC-Ingolstadt_logo.svg/125px-FC-Ingolstadt_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-03-11T20:23:25.68",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 73308,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 73309,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 58036,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 15,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58037,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 14599,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58038,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 60,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58039,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 69,
+        "goalGetterID": 2677,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 39867,
+    "matchDateTime": "2017-03-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-03-18T14:30:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 23857
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-03-19T21:44:27.95",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 73456,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 73458,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 58142,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 6,
+        "goalGetterID": 13706,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58143,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 35,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58144,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 37,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58148,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 50,
+        "goalGetterID": 1479,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58150,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 63,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58152,
+        "scoreTeam1": 4,
+        "scoreTeam2": 2,
+        "matchMinute": 69,
+        "goalGetterID": 14266,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 48500
+  },
+  {
+    "matchID": 39878,
+    "matchDateTime": "2017-04-01T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-04-01T13:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 23858
+    },
+    "team1": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-04-06T20:39:17.373",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 73702,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 73719,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 58468,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 13,
+        "goalGetterID": 16193,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 58471,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 25,
+        "goalGetterID": 13735,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Milos Jojic"
+      },
+      {
+        "goalID": 58503,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 91,
+        "goalGetterID": 16162,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 1030,
+      "locationCity": "Hamburg",
+      "locationStadium": "Volksparkstadion"
+    },
+    "numberOfViewers": 57000
+  },
+  {
+    "matchID": 39890,
+    "matchDateTime": "2017-04-04T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-04-04T18:00:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 23859
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-04-06T20:35:11.837",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 73848,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 73852,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 58572,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 52,
+        "goalGetterID": 13735,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Milos Jojic"
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 44000
+  },
+  {
+    "matchID": 39896,
+    "matchDateTime": "2017-04-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-04-08T13:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 23860
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-04-08T17:21:28.85",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 73995,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 73998,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 58678,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 13,
+        "goalGetterID": 11041,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58687,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 18,
+        "goalGetterID": 15625,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58693,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 55,
+        "goalGetterID": 247,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58694,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 58,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58699,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 80,
+        "goalGetterID": 7445,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 39908,
+    "matchDateTime": "2017-04-15T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-04-15T13:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 23861
+    },
+    "team1": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-04-17T17:46:14.72",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 74144,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 74147,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 58789,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 5,
+        "goalGetterID": 15641,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Martin Hinteregger"
+      },
+      {
+        "goalID": 58791,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 23,
+        "goalGetterID": 1925,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Paul Verhaegh"
+      },
+      {
+        "goalID": 58803,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 65,
+        "goalGetterID": 7384,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Frederik Sörensen"
+      }
+    ],
+    "location": {
+      "locationID": 1029,
+      "locationCity": "Augsburg",
+      "locationStadium": "WWK Arena"
+    },
+    "numberOfViewers": 28000
+  },
+  {
+    "matchID": 39912,
+    "matchDateTime": "2017-04-21T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-04-21T18:30:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 23862
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-04-22T16:29:41.13",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 74309,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 74310,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 58961,
+        "scoreTeam1": 0,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58962,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 58,
+        "goalGetterID": 16106,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 58963,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 94,
+        "goalGetterID": 16137,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 48000
+  },
+  {
+    "matchID": 39919,
+    "matchDateTime": "2017-04-29T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-04-29T13:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 23863
+    },
+    "team1": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-04-29T17:20:45.777",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 74493,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 74498,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 35,
+      "locationCity": "Dortmund",
+      "locationStadium": "Signal Iduna Park"
+    },
+    "numberOfViewers": 81360
+  },
+  {
+    "matchID": 39930,
+    "matchDateTime": "2017-05-05T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-05-05T18:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 23864
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-05-05T22:21:51.473",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 74630,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 74631,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 59155,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 14,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 59156,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 29,
+        "goalGetterID": 16106,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 59157,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 35,
+        "goalGetterID": 16257,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 59158,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 40,
+        "goalGetterID": 6882,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Theodor Gebre Selassie"
+      },
+      {
+        "goalID": 59159,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 44,
+        "goalGetterID": 9275,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 59160,
+        "scoreTeam1": 4,
+        "scoreTeam2": 2,
+        "matchMinute": 47,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 59161,
+        "scoreTeam1": 4,
+        "scoreTeam2": 3,
+        "matchMinute": 62,
+        "goalGetterID": 16086,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 39939,
+    "matchDateTime": "2017-05-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-05-13T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 23865
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-05-13T17:27:49.447",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 74811,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 74823,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 59371,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 15,
+        "goalGetterID": 13735,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Milos Jojic"
+      },
+      {
+        "goalID": 59395,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 50,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Lukas Klünter"
+      },
+      {
+        "goalID": 59417,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 60,
+        "goalGetterID": 114,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Stefan Kießling"
+      },
+      {
+        "goalID": 59427,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 71,
+        "goalGetterID": 14577,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 39948,
+    "matchDateTime": "2017-05-20T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 3005,
+    "leagueName": "1. Fußball-Bundesliga 2016/2017",
+    "leagueSeason": 2016,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2017-05-20T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 23866
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2017-05-24T15:28:09.367",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 74963,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 74973,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 59554,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 43,
+        "goalGetterID": 12511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 59569,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 87,
+        "goalGetterID": 13708,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

@@ -1,0 +1,1532 @@
+[
+  {
+    "matchID": 1638,
+    "matchDateTime": "2005-08-06T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-08-06T13:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 11095
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:45.087",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 330,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1653,
+    "matchDateTime": "2005-08-14T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-08-14T15:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 11096
+    },
+    "team1": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:46.01",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 345,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1655,
+    "matchDateTime": "2005-08-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-08-27T13:30:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 11097
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:46.12",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 347,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1671,
+    "matchDateTime": "2005-09-11T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-09-11T15:30:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 11098
+    },
+    "team1": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:46.977",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 363,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1673,
+    "matchDateTime": "2005-09-17T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-09-17T13:30:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 11099
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:47.087",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 365,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1686,
+    "matchDateTime": "2005-09-21T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-09-21T18:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 11100
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:47.823",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 378,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1698,
+    "matchDateTime": "2005-09-25T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-09-25T15:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 11101
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:48.477",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 390,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1703,
+    "matchDateTime": "2005-10-01T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-10-01T13:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 11102
+    },
+    "team1": {
+      "teamId": 79,
+      "teamName": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:48.76",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 395,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1716,
+    "matchDateTime": "2005-10-16T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-10-16T15:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 11103
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:49.493",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 408,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1723,
+    "matchDateTime": "2005-10-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-10-22T13:30:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 11104
+    },
+    "team1": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:49.963",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 415,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 6,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1727,
+    "matchDateTime": "2005-10-29T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-10-29T13:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 11105
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:50.62",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 419,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1739,
+    "matchDateTime": "2005-11-05T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-11-05T14:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 11106
+    },
+    "team1": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:52.853",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 431,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1745,
+    "matchDateTime": "2005-11-19T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-11-19T14:30:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 11107
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:13:54.667",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 437,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1765,
+    "matchDateTime": "2005-12-03T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-12-03T14:30:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 11109
+    },
+    "team1": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:02.197",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 456,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1762,
+    "matchDateTime": "2005-12-06T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-12-06T17:00:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 11108
+    },
+    "team1": {
+      "teamId": 107,
+      "teamName": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:03.587",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 462,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1779,
+    "matchDateTime": "2005-12-11T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-12-11T16:30:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 11110
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:05.43",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 470,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1787,
+    "matchDateTime": "2005-12-17T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2005-12-17T14:30:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 11111
+    },
+    "team1": {
+      "teamId": 83,
+      "teamName": "Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:06.947",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 479,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1791,
+    "matchDateTime": "2006-01-28T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-01-28T14:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 11112
+    },
+    "team1": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:07.65",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 483,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1803,
+    "matchDateTime": "2006-02-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-02-04T14:30:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 11113
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:10.527",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 495,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1808,
+    "matchDateTime": "2006-02-07T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-02-07T19:00:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 11114
+    },
+    "team1": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:11.743",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 500,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1824,
+    "matchDateTime": "2006-02-12T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-02-12T16:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 11115
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:16.993",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 516,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1826,
+    "matchDateTime": "2006-02-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-02-18T14:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 11116
+    },
+    "team1": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:17.167",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 518,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1835,
+    "matchDateTime": "2006-02-25T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-02-25T14:30:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 11117
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:18.917",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 527,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1844,
+    "matchDateTime": "2006-03-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-03-04T14:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 11118
+    },
+    "team1": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:21.337",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 536,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1857,
+    "matchDateTime": "2006-03-11T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-03-11T14:30:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 11119
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 79,
+      "teamName": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:25.26",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 549,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1862,
+    "matchDateTime": "2006-03-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-03-18T14:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 11120
+    },
+    "team1": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:26.29",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 554,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1876,
+    "matchDateTime": "2006-03-25T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-03-25T14:30:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 11121
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:28.383",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 568,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1880,
+    "matchDateTime": "2006-04-01T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-04-01T13:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 11122
+    },
+    "team1": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:28.807",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 572,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1891,
+    "matchDateTime": "2006-04-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-04-08T13:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 11123
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:30.167",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 583,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1898,
+    "matchDateTime": "2006-04-15T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-04-15T13:30:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 11124
+    },
+    "team1": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:30.93",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 590,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1908,
+    "matchDateTime": "2006-04-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-04-22T13:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 11125
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 107,
+      "teamName": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:32.04",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 600,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1919,
+    "matchDateTime": "2006-05-02T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-05-02T18:00:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 11126
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:34.04",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 611,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1925,
+    "matchDateTime": "2006-05-06T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-05-06T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 11127
+    },
+    "team1": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:34.823",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 617,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 6,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 1942,
+    "matchDateTime": "2006-05-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 12,
+    "leagueName": "1. Fussball-Bundesliga 2005/2006",
+    "leagueSeason": 2005,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2006-05-13T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 11128
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 83,
+      "teamName": "Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:37.337",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 634,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

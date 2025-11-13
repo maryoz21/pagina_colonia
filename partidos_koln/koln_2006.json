@@ -1,0 +1,1532 @@
+[
+  {
+    "matchID": 336,
+    "matchDateTime": "2006-08-14T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-08-14T18:15:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 11021
+    },
+    "team1": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:39.463",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 652,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 340,
+    "matchDateTime": "2006-08-20T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-08-20T12:00:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 11022
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 73,
+      "teamName": "Wacker Burghausen",
+      "shortName": "Burghausen",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/Wacker_Burghausen.gif",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:40.087",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 663,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 348,
+    "matchDateTime": "2006-08-25T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-08-25T16:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 11023
+    },
+    "team1": {
+      "teamId": 69,
+      "teamName": "FC Carl Zeiss Jena",
+      "shortName": "Jena",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_FC_Carl_Zeiss_Jena.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:40.633",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 673,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 355,
+    "matchDateTime": "2006-09-15T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-09-15T16:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 11024
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 74,
+      "teamName": "Eintracht Braunschweig",
+      "shortName": "Braunschweig",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:41.54",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 689,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 372,
+    "matchDateTime": "2006-09-25T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-09-25T18:15:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 11025
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 109,
+      "teamName": "Rot-Weiss Essen",
+      "shortName": "Rot-Weiss Essen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rot-Weiss_Essen.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:43.76",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 724,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 373,
+    "matchDateTime": "2006-09-29T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-09-29T16:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 11026
+    },
+    "team1": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:43.883",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 725,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 390,
+    "matchDateTime": "2006-10-16T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-10-16T18:15:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 11027
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 105,
+      "teamName": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:46.01",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 760,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 394,
+    "matchDateTime": "2006-10-20T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-10-20T16:00:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 11028
+    },
+    "team1": {
+      "teamId": 116,
+      "teamName": "SpVgg Unterhaching",
+      "shortName": "Unterhaching",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/SpVgg_Unterhaching_Logo_2012.svg/229px-SpVgg_Unterhaching_Logo_2012.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:46.243",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 764,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 403,
+    "matchDateTime": "2006-10-29T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-10-29T13:00:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 11029
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 102,
+      "teamName": "Hansa Rostock",
+      "shortName": "Rostock",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/240px-F.C._Hansa_Rostock_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:47.777",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 789,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 414,
+    "matchDateTime": "2006-11-03T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-11-03T17:00:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 11030
+    },
+    "team1": {
+      "teamId": 127,
+      "teamName": "TuS Koblenz",
+      "shortName": "",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/TuS_Koblenz.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:51.057",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 802,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 423,
+    "matchDateTime": "2006-11-08T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-11-08T16:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 11031
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 66,
+      "teamName": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Fc_erzgebirge_aue.svg/243px-Fc_erzgebirge_aue.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:54.633",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 824,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 431,
+    "matchDateTime": "2006-11-12T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-11-12T13:00:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 11032
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:14:59.68",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 844,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 439,
+    "matchDateTime": "2006-11-19T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-11-19T13:00:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 11033
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 125,
+      "teamName": "TSV 1860 München",
+      "shortName": "1860 München",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/192px-TSV_1860_M%C3%BCnchen.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:06.43",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 861,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 449,
+    "matchDateTime": "2006-11-26T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-11-26T13:00:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 11034
+    },
+    "team1": {
+      "teamId": 115,
+      "teamName": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "teamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:12.883",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 880,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 462,
+    "matchDateTime": "2006-12-04T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-12-04T19:15:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 11035
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 107,
+      "teamName": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:21.743",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 904,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 469,
+    "matchDateTime": "2006-12-10T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-12-10T13:00:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 11036
+    },
+    "team1": {
+      "teamId": 29,
+      "teamName": "Kickers Offenbach",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Logo_Kickers_Offenbach.svg/200px-Logo_Kickers_Offenbach.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:27.057",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 918,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 472,
+    "matchDateTime": "2006-12-15T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2006-12-15T17:00:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 11037
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:28.197",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 923,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 488,
+    "matchDateTime": "2007-01-21T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-01-21T13:00:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 11038
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:32.027",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 948,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 490,
+    "matchDateTime": "2007-01-26T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-01-26T17:00:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 11039
+    },
+    "team1": {
+      "teamId": 73,
+      "teamName": "Wacker Burghausen",
+      "shortName": "Burghausen",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/Wacker_Burghausen.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:32.307",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 950,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 505,
+    "matchDateTime": "2007-02-04T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-02-04T13:00:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 11040
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 69,
+      "teamName": "FC Carl Zeiss Jena",
+      "shortName": "Jena",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_FC_Carl_Zeiss_Jena.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:38.353",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 990,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 508,
+    "matchDateTime": "2007-02-09T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-02-09T17:00:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 11041
+    },
+    "team1": {
+      "teamId": 74,
+      "teamName": "Eintracht Braunschweig",
+      "shortName": "Braunschweig",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/4/45/Logo_Eintracht_Braunschweig.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:38.76",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 995,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 520,
+    "matchDateTime": "2007-02-18T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-02-18T13:00:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 11042
+    },
+    "team1": {
+      "teamId": 109,
+      "teamName": "Rot-Weiss Essen",
+      "shortName": "Rot-Weiss Essen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rot-Weiss_Essen.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:42.18",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1023,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 532,
+    "matchDateTime": "2007-02-25T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-02-25T13:00:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 11043
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:44.837",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1044,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 543,
+    "matchDateTime": "2007-03-05T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-03-05T19:15:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 11044
+    },
+    "team1": {
+      "teamId": 105,
+      "teamName": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:47.4",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1066,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 550,
+    "matchDateTime": "2007-03-11T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-03-11T13:00:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 11045
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 116,
+      "teamName": "SpVgg Unterhaching",
+      "shortName": "Unterhaching",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/SpVgg_Unterhaching_Logo_2012.svg/229px-SpVgg_Unterhaching_Logo_2012.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:49.103",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1080,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 561,
+    "matchDateTime": "2007-03-19T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-03-19T19:15:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 11046
+    },
+    "team1": {
+      "teamId": 102,
+      "teamName": "Hansa Rostock",
+      "shortName": "Rostock",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/240px-F.C._Hansa_Rostock_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:51.743",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1102,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 565,
+    "matchDateTime": "2007-04-01T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-04-01T12:00:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 11047
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 127,
+      "teamName": "TuS Koblenz",
+      "shortName": "",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/TuS_Koblenz.gif",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:53.337",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1113,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 571,
+    "matchDateTime": "2007-04-05T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-04-05T16:00:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 11048
+    },
+    "team1": {
+      "teamId": 66,
+      "teamName": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Fc_erzgebirge_aue.svg/243px-Fc_erzgebirge_aue.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:15:57.713",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1121,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 583,
+    "matchDateTime": "2007-04-15T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-04-15T12:00:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 11049
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:16:14.057",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1149,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 589,
+    "matchDateTime": "2007-04-20T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-04-20T16:00:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 11050
+    },
+    "team1": {
+      "teamId": 125,
+      "teamName": "TSV 1860 München",
+      "shortName": "1860 München",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/192px-TSV_1860_M%C3%BCnchen.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:16:19.37",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1157,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 603,
+    "matchDateTime": "2007-04-29T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-04-29T12:00:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 11051
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 115,
+      "teamName": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "teamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:16:27.573",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1187,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 615,
+    "matchDateTime": "2007-05-07T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-05-07T18:15:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 11052
+    },
+    "team1": {
+      "teamId": 107,
+      "teamName": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:16:38.01",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1210,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 623,
+    "matchDateTime": "2007-05-13T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-05-13T12:00:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 11053
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 29,
+      "teamName": "Kickers Offenbach",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Logo_Kickers_Offenbach.svg/200px-Logo_Kickers_Offenbach.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:16:40.073",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1227,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 319,
+    "matchDateTime": "2007-05-20T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 7,
+    "leagueName": "2. Fußball-Bundesliga 2006/2007",
+    "leagueSeason": 2006,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2007-05-20T12:00:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 11054
+    },
+    "team1": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-10-02T22:16:41.323",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 1238,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

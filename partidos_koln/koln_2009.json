@@ -1,0 +1,2770 @@
+[
+  {
+    "matchID": 5276,
+    "matchDateTime": "2009-08-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-08-08T13:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 11538
+    },
+    "team1": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-08-08T17:44:18.12",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 6183,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 6184,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 133,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 75,
+        "goalGetterID": 108,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 35,
+      "locationCity": "Dortmund",
+      "locationStadium": "Signal Iduna Park"
+    },
+    "numberOfViewers": 78200
+  },
+  {
+    "matchID": 5290,
+    "matchDateTime": "2009-08-15T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-08-15T16:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 11539
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-08-15T21:17:27.983",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 6371,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 6372,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 299,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 49,
+        "goalGetterID": 214,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 300,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 73,
+        "goalGetterID": 74,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 301,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 74,
+        "goalGetterID": 215,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 302,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 87,
+        "goalGetterID": 216,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 48000
+  },
+  {
+    "matchID": 5297,
+    "matchDateTime": "2009-08-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-08-22T13:30:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 11540
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-08-22T18:09:58.3",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 6477,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 6478,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 49200
+  },
+  {
+    "matchID": 5305,
+    "matchDateTime": "2009-08-30T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-08-30T15:30:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 11541
+    },
+    "team1": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-08-30T19:36:25.517",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 6701,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 6702,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 648,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 19,
+        "goalGetterID": 18618,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 659,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 66,
+        "goalGetterID": 18618,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 663,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 76,
+        "goalGetterID": 409,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 664,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 86,
+        "goalGetterID": 40,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 27,
+      "locationCity": "Hamburg",
+      "locationStadium": "HSH Nordbank Arena "
+    },
+    "numberOfViewers": 54112
+  },
+  {
+    "matchID": 5316,
+    "matchDateTime": "2009-09-13T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-09-13T15:30:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 11542
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-09-13T19:51:17.437",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 7054,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 7055,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 919,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 2,
+        "goalGetterID": 256,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 920,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 6,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 921,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 46,
+        "goalGetterID": 538,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 5321,
+    "matchDateTime": "2009-09-19T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-09-19T13:30:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 11543
+    },
+    "team1": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-09-20T19:19:03.797",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 7163,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 7164,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 1117,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 25,
+        "goalGetterID": 653,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Vorlage: Ehret"
+      },
+      {
+        "goalID": 1134,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 89,
+        "goalGetterID": 97,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 37,
+      "locationCity": "Stuttgart",
+      "locationStadium": "Mercedes Benz Arena "
+    },
+    "numberOfViewers": 41000
+  },
+  {
+    "matchID": 5334,
+    "matchDateTime": "2009-09-26T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-09-26T13:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 11544
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-10-05T14:53:31.377",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 7538,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 7539,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 1700,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 82,
+        "goalGetterID": 511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 49300
+  },
+  {
+    "matchID": 5338,
+    "matchDateTime": "2009-10-03T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-10-03T13:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 11545
+    },
+    "team1": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/Bayern_Muenchen.gif",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-10-03T20:21:53.253",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 7822,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 7823,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 34,
+      "locationCity": "München",
+      "locationStadium": "Allianz Arena"
+    },
+    "numberOfViewers": 69000
+  },
+  {
+    "matchID": 5384,
+    "matchDateTime": "2009-10-17T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-10-17T13:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 11546
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-10-17T20:44:29.78",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 8217,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 8218,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2747,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 42,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 49000
+  },
+  {
+    "matchID": 5395,
+    "matchDateTime": "2009-10-24T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-10-24T13:30:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 11547
+    },
+    "team1": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-11-09T08:14:29.153",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 8578,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 8579,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 32,
+      "locationCity": "Mönchengladbach",
+      "locationStadium": "Borussia Park"
+    },
+    "numberOfViewers": 54057
+  },
+  {
+    "matchID": 5402,
+    "matchDateTime": "2009-10-31T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-10-31T14:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 11548
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-11-09T07:17:57.193",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 8860,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 8861,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 1883,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 37,
+        "goalGetterID": 923,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 45000
+  },
+  {
+    "matchID": 5407,
+    "matchDateTime": "2009-11-08T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-11-08T16:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 11549
+    },
+    "team1": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-11-08T19:52:53.493",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 9262,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 9263,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 1991,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 79,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 22,
+      "locationCity": "Berlin",
+      "locationStadium": "Olympiastadion"
+    },
+    "numberOfViewers": 48623
+  },
+  {
+    "matchID": 5421,
+    "matchDateTime": "2009-11-21T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-11-21T14:30:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 11550
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-11-23T21:22:13.63",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 9572,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 9573,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2093,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 5,
+        "goalGetterID": 233,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2095,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 11,
+        "goalGetterID": 117,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2097,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 46,
+        "goalGetterID": 515,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2116,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 90,
+        "goalGetterID": 803,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Foulelfmeter"
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 45000
+  },
+  {
+    "matchID": 5429,
+    "matchDateTime": "2009-11-27T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-11-27T19:30:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 11551
+    },
+    "team1": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-11-29T17:02:27.143",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 9839,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 9840,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 25,
+      "locationCity": "Bochum",
+      "locationStadium": "rewirpower Stadion"
+    },
+    "numberOfViewers": 0
+  },
+  {
+    "matchID": 5440,
+    "matchDateTime": "2009-12-06T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-12-06T14:30:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 11552
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-12-06T17:33:54.24",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 10116,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 10117,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 5448,
+    "matchDateTime": "2009-12-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-12-12T14:30:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 11553
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-12-13T16:11:02.143",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 10224,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 10225,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 26,
+      "locationCity": "Freiburg",
+      "locationStadium": "badenova Stadion"
+    },
+    "numberOfViewers": 24000
+  },
+  {
+    "matchID": 5458,
+    "matchDateTime": "2009-12-20T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2009-12-20T16:30:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 11554
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 79,
+      "teamName": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2009-12-20T19:18:47.763",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 10434,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 10435,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2290,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 37,
+        "goalGetterID": 1033,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2291,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 70,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2292,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 77,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 44500
+  },
+  {
+    "matchID": 5462,
+    "matchDateTime": "2010-01-17T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-01-17T16:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 11555
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-01-17T19:25:13.607",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 10575,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 10576,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2404,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 28,
+        "goalGetterID": 512,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2405,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 45,
+        "goalGetterID": 512,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2406,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 82,
+        "goalGetterID": 1062,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2407,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 88,
+        "goalGetterID": 96,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2408,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 90,
+        "goalGetterID": 1063,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": 0
+  },
+  {
+    "matchID": 5475,
+    "matchDateTime": "2010-01-24T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-01-24T14:30:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 11556
+    },
+    "team1": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-01-24T17:47:11.327",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 10706,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 10707,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2425,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 7,
+        "goalGetterID": 1066,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2426,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 21,
+        "goalGetterID": 873,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2427,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 57,
+        "goalGetterID": 653,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2428,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 59,
+        "goalGetterID": 1067,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2429,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 74,
+        "goalGetterID": 409,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 20,
+      "locationCity": "Wolfsburg",
+      "locationStadium": "Volkswagen Arena "
+    },
+    "numberOfViewers": 28000
+  },
+  {
+    "matchID": 5482,
+    "matchDateTime": "2010-01-30T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-01-30T14:30:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 11557
+    },
+    "team1": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-01-30T20:13:01.127",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 10744,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 10745,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2453,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 59,
+        "goalGetterID": 1070,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2461,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 76,
+        "goalGetterID": 1072,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2462,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 84,
+        "goalGetterID": 715,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 30,
+      "locationCity": "Frankfurt",
+      "locationStadium": "Commerzbank Arena"
+    },
+    "numberOfViewers": 0
+  },
+  {
+    "matchID": 5490,
+    "matchDateTime": "2010-02-06T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-02-06T14:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 11558
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-02-13T08:09:53.683",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 10774,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 10775,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2495,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 2,
+        "goalGetterID": 45,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2497,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 31,
+        "goalGetterID": 96,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2498,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 36,
+        "goalGetterID": 37,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2504,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 50,
+        "goalGetterID": 37,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Handelfmeter"
+      },
+      {
+        "goalID": 2505,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 75,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2507,
+        "scoreTeam1": 3,
+        "scoreTeam2": 3,
+        "matchMinute": 88,
+        "goalGetterID": 409,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 5501,
+    "matchDateTime": "2010-02-14T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-02-14T14:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 11559
+    },
+    "team1": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-02-14T19:24:06.987",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 11441,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 11442,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2551,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 45,
+        "goalGetterID": 108,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2552,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 81,
+        "goalGetterID": 256,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 33,
+      "locationCity": "Gelsenkirchen",
+      "locationStadium": "Veltins Arena"
+    },
+    "numberOfViewers": 61673
+  },
+  {
+    "matchID": 5506,
+    "matchDateTime": "2010-02-20T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-02-20T14:30:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 11560
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-02-20T17:21:22.38",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 11471,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 5,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 11472,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2584,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 13,
+        "goalGetterID": 81,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2585,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 31,
+        "goalGetterID": 81,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2587,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 38,
+        "goalGetterID": 81,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2589,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 44,
+        "goalGetterID": 1097,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2592,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 70,
+        "goalGetterID": 510,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2593,
+        "scoreTeam1": 1,
+        "scoreTeam2": 5,
+        "matchMinute": 74,
+        "goalGetterID": 81,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 5519,
+    "matchDateTime": "2010-02-27T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-02-27T17:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 11561
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-02-27T20:20:32.23",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 11520,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 11521,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 5523,
+    "matchDateTime": "2010-03-06T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-03-06T14:30:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 11562
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://www.openligadb.de/images/teamicons/Bayern_Muenchen.gif",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-03-06T17:22:12.07",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 11634,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 11635,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2650,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 32,
+        "goalGetterID": 98,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2654,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 58,
+        "goalGetterID": 7,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 5537,
+    "matchDateTime": "2010-03-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-03-13T14:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 11563
+    },
+    "team1": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-03-13T17:24:21.147",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 11748,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 11749,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2686,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 57,
+        "goalGetterID": 656,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 5548,
+    "matchDateTime": "2010-03-19T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-03-19T19:30:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 11564
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-03-21T19:19:50.113",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 11799,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 11800,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2702,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 56,
+        "goalGetterID": 357,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2703,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 79,
+        "goalGetterID": 1070,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 5555,
+    "matchDateTime": "2010-03-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-03-27T14:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 11565
+    },
+    "team1": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-03-28T19:08:13.783",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 11947,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 11948,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2734,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 12,
+        "goalGetterID": 1125,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2735,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 21,
+        "goalGetterID": 1126,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2736,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 28,
+        "goalGetterID": 939,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2737,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 71,
+        "goalGetterID": 1125,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2738,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 81,
+        "goalGetterID": 1127,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 29,
+      "locationCity": "Hannover",
+      "locationStadium": "AWD Arena"
+    },
+    "numberOfViewers": 43218
+  },
+  {
+    "matchID": 5560,
+    "matchDateTime": "2010-04-03T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-04-03T16:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 11566
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-04-03T20:15:53.91",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 12074,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 12075,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 5574,
+    "matchDateTime": "2010-04-10T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-04-10T13:30:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 11567
+    },
+    "team1": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-04-10T17:23:42.52",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 12188,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 12189,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2769,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 46,
+        "goalGetterID": 1134,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2770,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 82,
+        "goalGetterID": 1134,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 188,
+      "locationCity": "Hoffenheim",
+      "locationStadium": "Rhein-Neckar-Arena"
+    },
+    "numberOfViewers": 26950
+  },
+  {
+    "matchID": 5582,
+    "matchDateTime": "2010-04-16T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-04-16T18:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 11568
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-04-17T20:20:24.777",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 12248,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 12249,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2784,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 15,
+        "goalGetterID": 1125,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 2785,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 78,
+        "goalGetterID": 1125,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 46000
+  },
+  {
+    "matchID": 5593,
+    "matchDateTime": "2010-04-24T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-04-24T16:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 11569
+    },
+    "team1": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-04-24T20:22:04.837",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 13036,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 13037,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 5602,
+    "matchDateTime": "2010-05-01T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-05-01T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 11570
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-05-01T17:21:55.04",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 13279,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 13280,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 2795,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 9,
+        "goalGetterID": 1125,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": 0
+  },
+  {
+    "matchID": 5612,
+    "matchDateTime": "2010-05-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 71,
+    "leagueName": "1. Fussball-Bundesliga 2009/2010",
+    "leagueSeason": 2009,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2010-05-08T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 11571
+    },
+    "team1": {
+      "teamId": 79,
+      "teamName": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2010-05-08T17:22:13.247",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 13377,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 13378,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeitpause"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

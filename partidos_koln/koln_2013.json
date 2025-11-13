@@ -1,0 +1,2891 @@
+[
+  {
+    "matchID": 24053,
+    "matchDateTime": "2013-07-20T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-07-20T13:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 13642
+    },
+    "team1": {
+      "teamId": 177,
+      "teamName": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/284px-Logo_SG_Dynamo_Dresden_neu.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-07-28T20:16:33.71",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 37196,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 37197,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 20691,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 61,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 20692,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 78,
+        "goalGetterID": 1805,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 642,
+      "locationCity": "Dresden",
+      "locationStadium": "Glücksgas Stadion"
+    },
+    "numberOfViewers": 29308
+  },
+  {
+    "matchID": 24055,
+    "matchDateTime": "2013-07-28T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-07-28T13:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 13643
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 185,
+      "teamName": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-14T15:05:23.01",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 37367,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 37368,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 20931,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 11,
+        "goalGetterID": 11543,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 20932,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 67,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 24068,
+    "matchDateTime": "2013-08-10T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-08-10T11:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 13644
+    },
+    "team1": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-08-25T19:20:49.973",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 37544,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 37541,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 21159,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 15,
+        "goalGetterID": 1447,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21160,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21161,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 93,
+        "goalGetterID": 10519,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 722,
+      "locationCity": "Paderborn",
+      "locationStadium": "Benteler-Arena"
+    },
+    "numberOfViewers": 12397
+  },
+  {
+    "matchID": 24173,
+    "matchDateTime": "2013-08-17T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-08-17T11:00:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 13645
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 119,
+      "teamName": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SV_Sandhausen.svg/200px-SV_Sandhausen.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-14T15:05:02.847",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 37627,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 37628,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 21467,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 55,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21468,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 78,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 39000
+  },
+  {
+    "matchID": 24182,
+    "matchDateTime": "2013-08-24T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-08-24T11:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 13646
+    },
+    "team1": {
+      "teamId": 115,
+      "teamName": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "teamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-08-25T19:52:04.593",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 37708,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 37709,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 798,
+      "locationCity": "Fürth",
+      "locationStadium": "Trolli Arena"
+    },
+    "numberOfViewers": 13770
+  },
+  {
+    "matchID": 24192,
+    "matchDateTime": "2013-09-01T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-09-01T11:30:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 13647
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1067,
+      "teamName": "FC Erzgebirge Aue",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Fc_erzgebirge_aue.svg/1035px-Fc_erzgebirge_aue.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-14T15:04:44.597",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 37932,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 37927,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 21656,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 2,
+        "goalGetterID": 11633,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21657,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 11,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21658,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 14,
+        "goalGetterID": 11634,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21659,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 24,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21664,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 55,
+        "goalGetterID": 3223,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 42000
+  },
+  {
+    "matchID": 24201,
+    "matchDateTime": "2013-09-16T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-09-16T18:15:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 13648
+    },
+    "team1": {
+      "teamId": 93,
+      "teamName": "Energie Cottbus",
+      "shortName": "Cottbus",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Energie_Cottbus.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-09-17T21:50:38.95",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 38188,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 38187,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 21952,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 2,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21953,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 8,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21954,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 28,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 21955,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 67,
+        "goalGetterID": 3223,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 84,
+      "locationCity": "Cottbus",
+      "locationStadium": "Stadion der Freundschaft"
+    },
+    "numberOfViewers": 10406
+  },
+  {
+    "matchID": 24209,
+    "matchDateTime": "2013-09-20T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-09-20T16:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 13649
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-14T15:04:18.597",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 38254,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 38255,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 24221,
+    "matchDateTime": "2013-09-27T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-09-27T16:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 13650
+    },
+    "team1": {
+      "teamId": 183,
+      "teamName": "VfR Aalen",
+      "shortName": "Aalen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/VfR_Aalen_Wappen.svg/150px-VfR_Aalen_Wappen.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-09-27T22:36:22.903",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 38371,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 38372,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 22247,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 32,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 799,
+      "locationCity": "Aalen",
+      "locationStadium": "Scholz Arena"
+    },
+    "numberOfViewers": 8718
+  },
+  {
+    "matchID": 24233,
+    "matchDateTime": "2013-10-05T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-10-05T11:00:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 13651
+    },
+    "team1": {
+      "teamId": 105,
+      "teamName": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-10-20T15:06:17.823",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 38815,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 38812,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 22661,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 52,
+        "goalGetterID": 11838,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 22663,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 59,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 22664,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 90,
+        "goalGetterID": 8143,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 74,
+      "locationCity": "Karlsruhe",
+      "locationStadium": "Wildparkstadion"
+    },
+    "numberOfViewers": 20233
+  },
+  {
+    "matchID": 24237,
+    "matchDateTime": "2013-10-21T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-10-21T18:15:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 13652
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 125,
+      "teamName": "TSV 1860 München",
+      "shortName": "1860 München",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/192px-TSV_1860_M%C3%BCnchen.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-14T15:03:46.533",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 39148,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 39149,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 48300
+  },
+  {
+    "matchID": 24252,
+    "matchDateTime": "2013-10-25T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-10-25T16:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 13653
+    },
+    "team1": {
+      "teamId": 83,
+      "teamName": "Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-10-25T20:37:32.547",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 39178,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 39179,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 23075,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 80,
+        "goalGetterID": 3223,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 836,
+      "locationCity": "Bielefeld",
+      "locationStadium": "SchücoArena"
+    },
+    "numberOfViewers": 26200
+  },
+  {
+    "matchID": 24254,
+    "matchDateTime": "2013-11-04T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-11-04T19:15:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 13654
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-14T15:03:26.143",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 39524,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 39525,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 23437,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 22,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 23438,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 30,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 23439,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 52,
+        "goalGetterID": 11633,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 23440,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 66,
+        "goalGetterID": 12511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 45000
+  },
+  {
+    "matchID": 24268,
+    "matchDateTime": "2013-11-10T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-11-10T12:30:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 13655
+    },
+    "team1": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-11-10T23:19:57.783",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 39676,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 39677,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 23595,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 65,
+        "goalGetterID": 1049,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 409,
+      "locationCity": "Bochum",
+      "locationStadium": "rewirpowerSTADION"
+    },
+    "numberOfViewers": 27555
+  },
+  {
+    "matchID": 24272,
+    "matchDateTime": "2013-11-23T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-11-23T12:00:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 13656
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 171,
+      "teamName": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/FC-Ingolstadt_logo.svg/125px-FC-Ingolstadt_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-14T15:03:02.507",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 39851,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 39852,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 23812,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 48,
+        "goalGetterID": 20,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 47000
+  },
+  {
+    "matchID": 24284,
+    "matchDateTime": "2013-11-29T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-11-29T17:30:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 13657
+    },
+    "team1": {
+      "teamId": 98,
+      "teamName": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b3/Fc_st_pauli_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-11-29T20:19:15.583",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 39984,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 39985,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 23981,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 6,
+        "goalGetterID": 12862,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 23983,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 28,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 23988,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 78,
+        "goalGetterID": 11633,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 73,
+      "locationCity": "Hamburg",
+      "locationStadium": "Millerntor-Stadion"
+    },
+    "numberOfViewers": 29063
+  },
+  {
+    "matchID": 24290,
+    "matchDateTime": "2013-12-07T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-12-07T12:00:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 13658
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 172,
+      "teamName": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/FSV_Frankfurt_1899.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-14T15:02:45.17",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 40372,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 40276,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 24385,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 54,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 24386,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 84,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 43300
+  },
+  {
+    "matchID": 24299,
+    "matchDateTime": "2013-12-13T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-12-13T17:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 13659
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 177,
+      "teamName": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/284px-Logo_SG_Dynamo_Dresden_neu.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-13T20:20:00.717",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 40407,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 40408,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 24438,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 14,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 24439,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 25,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 24440,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 52,
+        "goalGetterID": 8143,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 24441,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 55,
+        "goalGetterID": 13106,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 450000
+  },
+  {
+    "matchID": 24307,
+    "matchDateTime": "2013-12-22T14:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2013-12-22T13:00:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 13660
+    },
+    "team1": {
+      "teamId": 185,
+      "teamName": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2013-12-26T20:57:48.453",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 40623,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 40624,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 24677,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 29,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 24678,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 38,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 24681,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 55,
+        "goalGetterID": 1344,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 24682,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 62,
+        "goalGetterID": 11543,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 24683,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 75,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 167,
+      "locationCity": "Düsseldorf",
+      "locationStadium": "Esprit-Arena"
+    },
+    "numberOfViewers": 52500
+  },
+  {
+    "matchID": 24317,
+    "matchDateTime": "2014-02-09T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-02-09T12:30:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 13661
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-02-11T22:55:39.223",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 41542,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 41543,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 25550,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 47,
+        "goalGetterID": 2261,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 48100
+  },
+  {
+    "matchID": 24330,
+    "matchDateTime": "2014-02-16T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-02-16T12:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 13662
+    },
+    "team1": {
+      "teamId": 119,
+      "teamName": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SV_Sandhausen.svg/200px-SV_Sandhausen.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-02-16T17:07:42.713",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 41661,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 41662,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 25686,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 48,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 16,
+      "locationCity": "Sandhausen",
+      "locationStadium": "Hardtwaldstadion"
+    },
+    "numberOfViewers": 9800
+  },
+  {
+    "matchID": 24355,
+    "matchDateTime": "2014-02-24T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-02-24T19:15:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 13663
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 115,
+      "teamName": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "teamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-02-26T21:23:48.95",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 41884,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 41883,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 25934,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 36,
+        "goalGetterID": 12862,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 25935,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 86,
+        "goalGetterID": 10764,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 45500
+  },
+  {
+    "matchID": 24377,
+    "matchDateTime": "2014-03-01T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-03-01T12:00:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 13664
+    },
+    "team1": {
+      "teamId": 1067,
+      "teamName": "FC Erzgebirge Aue",
+      "shortName": "",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Fc_erzgebirge_aue.svg/1035px-Fc_erzgebirge_aue.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-03-01T16:30:46.14",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 41909,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 41910,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 25954,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 12,
+        "goalGetterID": 6807,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 25955,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 69,
+        "goalGetterID": 685,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 25956,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 83,
+        "goalGetterID": 93,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 25957,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 88,
+        "goalGetterID": 93,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 598,
+      "locationCity": "Aue",
+      "locationStadium": "Sparkassen-Erzgebirgsstadion"
+    },
+    "numberOfViewers": 13050
+  },
+  {
+    "matchID": 24382,
+    "matchDateTime": "2014-03-07T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-03-07T17:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 13665
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 93,
+      "teamName": "Energie Cottbus",
+      "shortName": "Cottbus",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Energie_Cottbus.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-03-08T15:40:20.347",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 41962,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 41963,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 26053,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 68,
+        "goalGetterID": 111,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 26054,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 84,
+        "goalGetterID": 12511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 26055,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 86,
+        "goalGetterID": 4242,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 42400
+  },
+  {
+    "matchID": 24393,
+    "matchDateTime": "2014-03-17T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-03-17T19:15:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 13666
+    },
+    "team1": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-03-18T19:11:47.92",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 42294,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 42295,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 437,
+      "locationCity": "Kaiserslautern",
+      "locationStadium": "Fritz-Walter-Stadion"
+    },
+    "numberOfViewers": 41315
+  },
+  {
+    "matchID": 24404,
+    "matchDateTime": "2014-03-22T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-03-22T12:00:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 13667
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 183,
+      "teamName": "VfR Aalen",
+      "shortName": "Aalen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/VfR_Aalen_Wappen.svg/150px-VfR_Aalen_Wappen.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-03-22T16:26:59.087",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 42354,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 42355,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 45700
+  },
+  {
+    "matchID": 24418,
+    "matchDateTime": "2014-03-26T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-03-26T16:30:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 13668
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 105,
+      "teamName": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Karlsruher_SC_Logo_2.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-03-26T23:40:47.023",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 42516,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 42517,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 26584,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 29,
+        "goalGetterID": 8143,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 26585,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 58,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 46700
+  },
+  {
+    "matchID": 24430,
+    "matchDateTime": "2014-03-30T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-03-30T11:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 13669
+    },
+    "team1": {
+      "teamId": 125,
+      "teamName": "TSV 1860 München",
+      "shortName": "1860 München",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/192px-TSV_1860_M%C3%BCnchen.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-03-30T18:29:09.94",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 42648,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 42649,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 26753,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 85,
+        "goalGetterID": 14179,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 34,
+      "locationCity": "München",
+      "locationStadium": "Allianz Arena"
+    },
+    "numberOfViewers": 33600
+  },
+  {
+    "matchID": 24438,
+    "matchDateTime": "2014-04-05T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-04-05T11:00:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 13670
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 83,
+      "teamName": "Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-04-05T17:26:24.9",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 42819,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 42820,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 26905,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 12,
+        "goalGetterID": 93,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 26906,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 75,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 48900
+  },
+  {
+    "matchID": 24449,
+    "matchDateTime": "2014-04-11T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-04-11T16:30:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 13671
+    },
+    "team1": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-04-12T10:04:08.03",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 43908,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 43909,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 27010,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 10,
+        "goalGetterID": 1495,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27011,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 25,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27012,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 59,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 182,
+      "locationCity": "Berlin",
+      "locationStadium": "Stadion an der Alten Försterei"
+    },
+    "numberOfViewers": 21000
+  },
+  {
+    "matchID": 24458,
+    "matchDateTime": "2014-04-21T20:15:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-04-21T18:15:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 13672
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-04-23T07:13:50.45",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 44261,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 44262,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 27361,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 2222,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27362,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 50,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27363,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 64,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27364,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 81,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 49100
+  },
+  {
+    "matchID": 24479,
+    "matchDateTime": "2014-04-25T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-04-25T16:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 13673
+    },
+    "team1": {
+      "teamId": 171,
+      "teamName": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/FC-Ingolstadt_logo.svg/125px-FC-Ingolstadt_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-04-28T15:16:25.24",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 44316,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 44317,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 27410,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 34,
+        "goalGetterID": 20,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27412,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 61,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 354,
+      "locationCity": "Ingolstadt",
+      "locationStadium": "Audi-Sportpark"
+    },
+    "numberOfViewers": 11120
+  },
+  {
+    "matchID": 24484,
+    "matchDateTime": "2014-05-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-05-04T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 13674
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 98,
+      "teamName": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b3/Fc_st_pauli_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-05-05T06:22:11.237",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 44574,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 44575,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 27663,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 13,
+        "goalGetterID": 11322,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27670,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 39,
+        "goalGetterID": 1015,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27673,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 43,
+        "goalGetterID": 1112,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27675,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 61,
+        "goalGetterID": 2203,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 24500,
+    "matchDateTime": "2014-05-11T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 624,
+    "leagueName": "2. Fussball-Bundesliga 2013/2014",
+    "leagueSeason": 2013,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2014-05-11T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 13675
+    },
+    "team1": {
+      "teamId": 172,
+      "teamName": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/FSV_Frankfurt_1899.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2014-05-15T07:09:41.023",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 44730,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 44731,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 27843,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 65,
+        "goalGetterID": 1348,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 27844,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 71,
+        "goalGetterID": 2606,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 701,
+      "locationCity": "Frankfurt",
+      "locationStadium": "Volksbank-Stadion"
+    },
+    "numberOfViewers": 12542
+  }
+]

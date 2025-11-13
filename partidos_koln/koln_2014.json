@@ -1,0 +1,2887 @@
+[
+  {
+    "matchID": 27794,
+    "matchDateTime": "2014-08-23T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-08-23T13:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 14563
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:45:30.467",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 46255,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 46256,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 31,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein Energie Stadion "
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 27803,
+    "matchDateTime": "2014-08-30T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-08-30T13:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 14564
+    },
+    "team1": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T14:54:57.99",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 46450,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 46448,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 29860,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 22,
+        "goalGetterID": 13706,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 29864,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 33,
+        "goalGetterID": 11319,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 493,
+      "locationCity": "Stuttgart",
+      "locationStadium": "Mercedes-Benz Arena"
+    },
+    "numberOfViewers": 55000
+  },
+  {
+    "matchID": 27813,
+    "matchDateTime": "2014-09-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-09-13T13:30:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 14565
+    },
+    "team1": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:02:19.603",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 46719,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 46720,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 722,
+      "locationCity": "Paderborn",
+      "locationStadium": "Benteler-Arena"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 27821,
+    "matchDateTime": "2014-09-21T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-09-21T15:30:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 14566
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:04:07.167",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 47022,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 47023,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 495,
+      "locationCity": "Köln",
+      "locationStadium": "ReinEnergieStadion"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 27828,
+    "matchDateTime": "2014-09-24T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-09-24T18:00:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 14567
+    },
+    "team1": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:06:09.887",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 47147,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 47148,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 30676,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 5,
+        "goalGetterID": 2006,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 944,
+      "locationCity": "Hannover",
+      "locationStadium": "HDI-Arena"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28036,
+    "matchDateTime": "2014-09-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-09-27T13:30:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 14568
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:06:59.433",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 47220,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 47228,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 30763,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 19,
+        "goalGetterID": 1442,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 30777,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 66,
+        "goalGetterID": 93,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 789,
+      "locationCity": "Köln",
+      "locationStadium": "Müngersdorfer Stadion"
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 28046,
+    "matchDateTime": "2014-10-04T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-10-04T16:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 14569
+    },
+    "team1": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:08:55.027",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 47584,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 47585,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 31158,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 15,
+        "goalGetterID": 14624,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 31161,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 44,
+        "goalGetterID": 518,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 31166,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 54,
+        "goalGetterID": 518,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 31167,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 65,
+        "goalGetterID": 14625,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 31168,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 79,
+        "goalGetterID": 12862,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 30,
+      "locationCity": "Frankfurt",
+      "locationStadium": "Commerzbank Arena"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28054,
+    "matchDateTime": "2014-10-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-10-18T13:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 14570
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:12:05.773",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 47841,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 47842,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 31448,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 40,
+        "goalGetterID": 5749,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 31475,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 48,
+        "goalGetterID": 7002,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 31487,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 74,
+        "goalGetterID": 4501,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 978,
+      "locationCity": "Köln\t\t\t",
+      "locationStadium": "Rhein Energie Stadion"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28063,
+    "matchDateTime": "2014-10-24T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-10-24T18:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 14571
+    },
+    "team1": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:13:00.447",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 48058,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 48059,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 31748,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 59,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 36,
+      "locationCity": "Bremen",
+      "locationStadium": "Weserstadion"
+    },
+    "numberOfViewers": 42100
+  },
+  {
+    "matchID": 28072,
+    "matchDateTime": "2014-11-02T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-11-02T16:30:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 14572
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:15:26.053",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 48447,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 48448,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 32174,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 50,
+        "goalGetterID": 12471,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 427,
+      "locationCity": "Köln",
+      "locationStadium": "Rhein-Energie-Stadion"
+    },
+    "numberOfViewers": 49500
+  },
+  {
+    "matchID": 28077,
+    "matchDateTime": "2014-11-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-11-08T14:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 14573
+    },
+    "team1": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:16:12.003",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 48588,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 48589,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 32334,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 2,
+        "goalGetterID": 1133,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32335,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 5,
+        "goalGetterID": 14740,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32337,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 12,
+        "goalGetterID": 355,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32340,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 35,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32341,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 39,
+        "goalGetterID": 1964,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32342,
+        "scoreTeam1": 3,
+        "scoreTeam2": 3,
+        "matchMinute": 45,
+        "goalGetterID": 1964,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32348,
+        "scoreTeam1": 3,
+        "scoreTeam2": 4,
+        "matchMinute": 83,
+        "goalGetterID": 14740,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 188,
+      "locationCity": "Hoffenheim",
+      "locationStadium": "Rhein-Neckar-Arena"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28090,
+    "matchDateTime": "2014-11-22T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-11-22T17:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 14574
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:18:49.713",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 48874,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 48875,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 32657,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 28,
+        "goalGetterID": 14421,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32678,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 58,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32709,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 86,
+        "goalGetterID": 69,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28093,
+    "matchDateTime": "2014-11-29T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-11-29T14:30:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 14575
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:19:26.477",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 49122,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 49123,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 32942,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 4,
+        "goalGetterID": 355,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32946,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 26,
+        "goalGetterID": 1379,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32980,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 61,
+        "goalGetterID": 6557,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 32996,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 79,
+        "goalGetterID": 11540,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 33000,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 88,
+        "goalGetterID": 11540,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 33003,
+        "scoreTeam1": 5,
+        "scoreTeam2": 1,
+        "matchMinute": 90,
+        "goalGetterID": 1379,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 489,
+      "locationCity": "Leverkusen",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28113,
+    "matchDateTime": "2014-12-06T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-12-06T14:30:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 14576
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:20:55.09",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 49374,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 49375,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 33248,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 13,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 33278,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 53,
+        "goalGetterID": 9692,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 33289,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 90,
+        "goalGetterID": 1424,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28119,
+    "matchDateTime": "2014-12-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-12-13T14:30:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 14577
+    },
+    "team1": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-19T10:47:27.75",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 49617,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 49618,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 33548,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 46,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 33554,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 67,
+        "goalGetterID": 355,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 33557,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 85,
+        "goalGetterID": 13083,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 986,
+      "locationCity": "Schalke",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28135,
+    "matchDateTime": "2014-12-16T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-12-16T19:00:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 14578
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:23:49.07",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 49791,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 49792,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28139,
+    "matchDateTime": "2014-12-20T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2014-12-20T17:30:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 14579
+    },
+    "team1": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:25:11.44",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 49935,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 49936,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 33860,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 11,
+        "goalGetterID": 3878,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 33861,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 16,
+        "goalGetterID": 6795,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 33883,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 78,
+        "goalGetterID": 310,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 487,
+      "locationCity": "Wolfsburg",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28154,
+    "matchDateTime": "2015-01-31T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-01-31T14:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 14580
+    },
+    "team1": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:26:07.74",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 50578,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 50579,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 34499,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 62,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 34503,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 78,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 430,
+      "locationCity": "Hamburg",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28162,
+    "matchDateTime": "2015-02-04T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-02-04T19:00:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 14581
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:27:16.847",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 50716,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 50717,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28172,
+    "matchDateTime": "2015-02-07T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-02-07T14:30:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 14582
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:27:55.46",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 50766,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 50767,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28176,
+    "matchDateTime": "2015-02-14T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-02-14T14:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 14583
+    },
+    "team1": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-19T10:48:48.167",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 50951,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 50952,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 34907,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 91,
+        "goalGetterID": 7275,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 844,
+      "locationCity": "Gladbach",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28190,
+    "matchDateTime": "2015-02-21T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-02-21T17:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 14584
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:30:07.8",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 51215,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 51216,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 35205,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 5,
+        "goalGetterID": 2006,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35206,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 17,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28192,
+    "matchDateTime": "2015-02-27T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-02-27T19:30:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 14585
+    },
+    "team1": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:30:31.127",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 51380,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 51381,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 35395,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 3,
+        "goalGetterID": 7,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35396,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 10,
+        "goalGetterID": 513,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35397,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 45,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": ""
+      },
+      {
+        "goalID": 35411,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 67,
+        "goalGetterID": 181,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35413,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 75,
+        "goalGetterID": 1478,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 573,
+      "locationCity": "München",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28208,
+    "matchDateTime": "2015-03-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-03-08T14:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 14586
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:32:24.167",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 51655,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 51656,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 35721,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 28,
+        "goalGetterID": 14939,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35738,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 58,
+        "goalGetterID": 518,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35764,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 72,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35766,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 79,
+        "goalGetterID": 14205,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35767,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 82,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 35771,
+        "scoreTeam1": 4,
+        "scoreTeam2": 2,
+        "matchMinute": 93,
+        "goalGetterID": 518,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28210,
+    "matchDateTime": "2015-03-14T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-03-14T17:30:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 14587
+    },
+    "team1": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:33:36.417",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 51831,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 51832,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 744,
+      "locationCity": "Dortmund",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28226,
+    "matchDateTime": "2015-03-21T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-03-21T14:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 14588
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:34:22.683",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 53024,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 53025,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 37130,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 27,
+        "goalGetterID": 14445,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 37164,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 88,
+        "goalGetterID": 355,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28236,
+    "matchDateTime": "2015-04-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-04-04T13:30:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 14589
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:35:32.8",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 53239,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 53240,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 37355,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 37,
+        "goalGetterID": 1128,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 843,
+      "locationCity": "Freiburg",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28243,
+    "matchDateTime": "2015-04-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-04-12T13:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 14590
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:36:37.787",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 53563,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 53564,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 37733,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 20,
+        "goalGetterID": 198,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 37735,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 54,
+        "goalGetterID": 3272,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 37738,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 70,
+        "goalGetterID": 1026,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 37742,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 78,
+        "goalGetterID": 12511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 37749,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 88,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28254,
+    "matchDateTime": "2015-04-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-04-18T13:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 14591
+    },
+    "team1": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:37:21.377",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 53665,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 53666,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 513,
+      "locationCity": "Berlin",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28262,
+    "matchDateTime": "2015-04-25T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-04-25T13:30:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 14592
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:38:11.597",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 53877,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 53878,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 38106,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 60,
+        "goalGetterID": 14189,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 38109,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 83,
+        "goalGetterID": 14179,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28269,
+    "matchDateTime": "2015-05-02T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-05-02T13:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 14593
+    },
+    "team1": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:38:45.997",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 54090,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 54091,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 979,
+      "locationCity": "Augsburg",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28280,
+    "matchDateTime": "2015-05-10T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-05-10T15:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 14594
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:40:08.723",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 54359,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 54360,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 38693,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 34,
+        "goalGetterID": 1473,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 38702,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 89,
+        "goalGetterID": 11633,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28285,
+    "matchDateTime": "2015-05-16T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-05-16T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 14595
+    },
+    "team1": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-18T15:40:31.727",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 54413,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 54414,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 38760,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 47,
+        "goalGetterID": 4918,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      },
+      {
+        "goalID": 38765,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 83,
+        "goalGetterID": 14656,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": ""
+      }
+    ],
+    "location": {
+      "locationID": 153,
+      "locationCity": "Mainz",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 28298,
+    "matchDateTime": "2015-05-23T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 720,
+    "leagueName": "1. Fußball-Bundesliga 2014/2015",
+    "leagueSeason": 2014,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2015-05-23T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 14596
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2015-05-23T17:17:49.973",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 54628,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 54629,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 38963,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 38968,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 38971,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 38982,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 166,
+      "locationCity": "Köln",
+      "locationStadium": ""
+    },
+    "numberOfViewers": null
+  }
+]

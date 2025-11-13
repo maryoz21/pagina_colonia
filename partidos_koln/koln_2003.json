@@ -1,0 +1,1267 @@
+[
+  {
+    "matchID": 4581,
+    "matchDateTime": "2003-08-03T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-08-03T15:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 11492
+    },
+    "team1": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-13T17:02:48.88",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 3404,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 3405,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach 45 Minuten"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4586,
+    "matchDateTime": "2003-08-09T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-08-09T13:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 11493
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-02-20T21:43:49.647",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 101418,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 101419,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 0,
+        "resultDescription": "Ergebnis nach 45 Minuten"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 99473,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 99474,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 99475,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4600,
+    "matchDateTime": "2003-08-17T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-08-17T15:30:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 11494
+    },
+    "team1": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-14T23:38:43.673",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4605,
+    "matchDateTime": "2003-08-23T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-08-23T13:30:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 11495
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-14T23:40:27.83",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4614,
+    "matchDateTime": "2003-09-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-09-13T13:30:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 11496
+    },
+    "team1": {
+      "teamId": 125,
+      "teamName": "TSV 1860 München",
+      "shortName": "1860 München",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/192px-TSV_1860_M%C3%BCnchen.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-14T23:43:58.283",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4623,
+    "matchDateTime": "2003-09-20T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-09-20T13:30:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 11497
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-14T23:51:15.033",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4634,
+    "matchDateTime": "2003-09-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-09-27T13:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 11498
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-14T23:55:11.22",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4641,
+    "matchDateTime": "2003-10-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-10-04T13:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 11499
+    },
+    "team1": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-14T23:57:11.657",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4651,
+    "matchDateTime": "2003-10-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-10-18T13:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 11500
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T00:01:26.33",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4659,
+    "matchDateTime": "2003-10-25T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-10-25T13:30:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 11501
+    },
+    "team1": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T00:04:30.22",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4669,
+    "matchDateTime": "2003-11-01T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-11-01T14:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 11502
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T00:07:40.063",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4680,
+    "matchDateTime": "2003-11-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-11-08T14:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 11503
+    },
+    "team1": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:19:17.157",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4686,
+    "matchDateTime": "2003-11-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-11-22T14:30:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 11504
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:22:25.173",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4698,
+    "matchDateTime": "2003-11-29T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-11-29T14:30:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 11505
+    },
+    "team1": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:27:35.907",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4708,
+    "matchDateTime": "2003-12-07T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-12-07T16:30:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 11506
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:31:31.19",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4714,
+    "matchDateTime": "2003-12-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-12-13T14:30:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 11507
+    },
+    "team1": {
+      "teamId": 102,
+      "teamName": "Hansa Rostock",
+      "shortName": "Rostock",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/240px-F.C._Hansa_Rostock_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:33:44.563",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4722,
+    "matchDateTime": "2003-12-16T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2003-12-16T19:00:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 11508
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:36:51.313",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4731,
+    "matchDateTime": "2004-01-31T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-01-31T14:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 11509
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:40:13.657",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4740,
+    "matchDateTime": "2004-02-07T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-02-07T14:30:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 11510
+    },
+    "team1": {
+      "teamId": 76,
+      "teamName": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_1_FC_Kaiserslautern.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:43:40.377",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4757,
+    "matchDateTime": "2004-02-14T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-02-14T14:30:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 11511
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:49:48.55",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4766,
+    "matchDateTime": "2004-02-22T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-02-22T16:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 11512
+    },
+    "team1": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:53:11.55",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4773,
+    "matchDateTime": "2004-02-28T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-02-28T14:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 11513
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 125,
+      "teamName": "TSV 1860 München",
+      "shortName": "1860 München",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/192px-TSV_1860_M%C3%BCnchen.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T05:56:26.347",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4784,
+    "matchDateTime": "2004-03-07T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-03-07T16:30:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 11514
+    },
+    "team1": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:00:38.893",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4791,
+    "matchDateTime": "2004-03-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-03-13T14:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 11515
+    },
+    "team1": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:03:17.313",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4796,
+    "matchDateTime": "2004-03-20T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-03-20T14:30:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 11516
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:04:57.657",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4808,
+    "matchDateTime": "2004-03-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-03-27T14:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 11517
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:09:16.237",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4813,
+    "matchDateTime": "2004-04-03T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-04-03T13:30:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 11518
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:11:02.423",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4822,
+    "matchDateTime": "2004-04-11T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-04-11T15:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 11519
+    },
+    "team1": {
+      "teamId": 55,
+      "teamName": "Hannover 96",
+      "shortName": "Hannover",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:14:04.097",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4838,
+    "matchDateTime": "2004-04-18T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-04-18T15:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 11520
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:19:00.08",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4845,
+    "matchDateTime": "2004-04-24T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-04-24T13:30:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 11521
+    },
+    "team1": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:21:24.94",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4853,
+    "matchDateTime": "2004-05-01T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-05-01T13:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 11522
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:23:59.563",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4863,
+    "matchDateTime": "2004-05-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-05-08T13:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 11523
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:27:23.75",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4870,
+    "matchDateTime": "2004-05-15T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-05-15T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 11524
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 102,
+      "teamName": "Hansa Rostock",
+      "shortName": "Rostock",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/F.C._Hansa_Rostock_Logo.svg/240px-F.C._Hansa_Rostock_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:29:46.907",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 4880,
+    "matchDateTime": "2004-05-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 49,
+    "leagueName": "1. Fußball-Bundesliga 2003/2004",
+    "leagueSeason": 2003,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2004-05-22T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 11525
+    },
+    "team1": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2008-11-15T06:32:51.453",
+    "matchIsFinished": false,
+    "matchResults": [],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

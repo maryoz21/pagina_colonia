@@ -1,0 +1,3444 @@
+[
+  {
+    "matchID": 51488,
+    "matchDateTime": "2018-08-04T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-08-04T11:00:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 31883
+    },
+    "team1": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-08-04T14:58:40.143",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 82411,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 82419,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 69972,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 44,
+        "goalGetterID": 16862,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 69974,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 59,
+        "goalGetterID": 6771,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51495,
+    "matchDateTime": "2018-08-13T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-08-13T18:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 31884
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-08-13T22:51:25.81",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 82556,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 82558,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 70209,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 41,
+        "goalGetterID": 15625,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 70211,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 69,
+        "goalGetterID": 508,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51505,
+    "matchDateTime": "2018-08-25T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-08-25T11:00:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 31885
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 66,
+      "teamName": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Fc_erzgebirge_aue.svg/243px-Fc_erzgebirge_aue.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-08-27T10:38:29.37",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 82767,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 82776,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 70661,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 26,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 70662,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 29,
+        "goalGetterID": 857,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 70673,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 69,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 70674,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 89,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51518,
+    "matchDateTime": "2018-09-02T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-09-02T11:30:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 31886
+    },
+    "team1": {
+      "teamId": 98,
+      "teamName": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b3/Fc_st_pauli_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-09-02T17:44:56.683",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 82956,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 82963,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 5,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 71054,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71055,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71056,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 15625,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71058,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71061,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71062,
+        "scoreTeam1": 2,
+        "scoreTeam2": 4,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71063,
+        "scoreTeam1": 3,
+        "scoreTeam2": 4,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71064,
+        "scoreTeam1": 3,
+        "scoreTeam2": 5,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51523,
+    "matchDateTime": "2018-09-16T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-09-16T11:30:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 31887
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-09-16T17:22:38.543",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 83096,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 83107,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 5,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 71265,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 37,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71266,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 38,
+        "goalGetterID": 16914,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71267,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 53,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71268,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71269,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71274,
+        "scoreTeam1": 3,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71275,
+        "scoreTeam1": 3,
+        "scoreTeam2": 4,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71276,
+        "scoreTeam1": 3,
+        "scoreTeam2": 5,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51536,
+    "matchDateTime": "2018-09-21T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-09-21T16:30:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 31888
+    },
+    "team1": {
+      "teamId": 119,
+      "teamName": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SV_Sandhausen.svg/200px-SV_Sandhausen.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-09-21T20:22:10.497",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 83217,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 83218,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 71429,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 45,
+        "goalGetterID": 16920,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71430,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 54,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51540,
+    "matchDateTime": "2018-09-25T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-09-25T16:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 31889
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 171,
+      "teamName": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/FC-Ingolstadt_logo.svg/125px-FC-Ingolstadt_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-09-25T21:50:55.9",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 83339,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 83340,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 71610,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 53,
+        "goalGetterID": 16278,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71611,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 70,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71612,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 85,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51551,
+    "matchDateTime": "2018-09-28T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-09-28T16:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 31890
+    },
+    "team1": {
+      "teamId": 83,
+      "teamName": "Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-09-29T12:24:40.167",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 83446,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 83455,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 71805,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 45,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": "+1"
+      },
+      {
+        "goalID": 71806,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 70,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71807,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 85,
+        "goalGetterID": 16456,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 71808,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 90,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": "+5"
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51558,
+    "matchDateTime": "2018-10-08T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-10-08T18:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 31891
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 107,
+      "teamName": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-10-09T09:21:05.363",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 83704,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 83705,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 72252,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 9,
+        "goalGetterID": 14793,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 72253,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 35,
+        "goalGetterID": 14625,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 72254,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 73,
+        "goalGetterID": 16955,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "Eigentor"
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51568,
+    "matchDateTime": "2018-10-20T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-10-20T11:00:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 31892
+    },
+    "team1": {
+      "teamId": 104,
+      "teamName": "Holstein Kiel",
+      "shortName": "Kiel",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/300px-Holstein_Kiel_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-10-20T14:52:34.253",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 83747,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 83750,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 72316,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 72323,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 88,
+        "goalGetterID": 16957,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51576,
+    "matchDateTime": "2018-10-27T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-10-27T11:00:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 31893
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 199,
+      "teamName": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/830px-1._FC_Heidenheim_1846.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-10-27T17:45:55.337",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 83979,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 83980,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 72776,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 9,
+        "goalGetterID": 928,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 72777,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 58,
+        "goalGetterID": 16320,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51585,
+    "matchDateTime": "2018-11-05T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-11-05T19:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 31894
+    },
+    "team1": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-11-05T22:21:54.467",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 84290,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 84291,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 73447,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 86,
+        "goalGetterID": 1990,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51594,
+    "matchDateTime": "2018-11-10T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-11-10T12:00:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 31895
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 177,
+      "teamName": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/284px-Logo_SG_Dynamo_Dresden_neu.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-11-12T22:14:12.06",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 84325,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 84327,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 8,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 73509,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 3,
+        "goalGetterID": 16985,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73510,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 42,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73511,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 46,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73512,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 51,
+        "goalGetterID": 16985,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73513,
+        "scoreTeam1": 5,
+        "scoreTeam2": 0,
+        "matchMinute": 57,
+        "goalGetterID": 14625,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73514,
+        "scoreTeam1": 6,
+        "scoreTeam2": 0,
+        "matchMinute": 61,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73519,
+        "scoreTeam1": 6,
+        "scoreTeam2": 1,
+        "matchMinute": 73,
+        "goalGetterID": 16984,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73520,
+        "scoreTeam1": 7,
+        "scoreTeam2": 1,
+        "matchMinute": 78,
+        "goalGetterID": 16920,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73523,
+        "scoreTeam1": 8,
+        "scoreTeam2": 1,
+        "matchMinute": 83,
+        "goalGetterID": 14625,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51608,
+    "matchDateTime": "2018-11-24T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-11-24T12:00:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 31896
+    },
+    "team1": {
+      "teamId": 118,
+      "teamName": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-11-24T15:36:10.667",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 84559,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 84560,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 73741,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73742,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73743,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51612,
+    "matchDateTime": "2018-12-01T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-12-01T12:00:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 31897
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 115,
+      "teamName": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "teamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-12-01T14:55:04.467",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 84762,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 84767,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 73936,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 17,
+        "goalGetterID": 7337,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73942,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 52,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73943,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 60,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 73946,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 78,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51623,
+    "matchDateTime": "2018-12-07T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-12-07T17:30:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 31898
+    },
+    "team1": {
+      "teamId": 181,
+      "teamName": "Jahn Regensburg",
+      "shortName": "Regensburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/204px-Jahn_Regensburg_logo2014.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-12-08T13:46:11.023",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 84848,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 84849,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 74031,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 11,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 74032,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 41,
+        "goalGetterID": 16995,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 74033,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 55,
+        "goalGetterID": 16997,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 74034,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 55,
+        "goalGetterID": 16995,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51630,
+    "matchDateTime": "2018-12-17T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-12-17T19:30:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 31899
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 78,
+      "teamName": "1. FC Magdeburg",
+      "shortName": "Magdeburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/210px-1._FC_Magdeburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-12-17T22:19:57.55",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 85018,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 85019,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 74355,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 33,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": "3. Anlauf"
+      },
+      {
+        "goalID": 74356,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 48,
+        "goalGetterID": 7337,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 74357,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 90,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51639,
+    "matchDateTime": "2018-12-21T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2018-12-21T17:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 31900
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2018-12-21T21:24:05.367",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 85104,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 85109,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 74442,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 74443,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 74446,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 74447,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 74448,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51651,
+    "matchDateTime": "2019-01-31T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-01-31T19:30:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 31901
+    },
+    "team1": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-01-31T22:25:29.647",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 85833,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 85834,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 75753,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 75754,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51667,
+    "matchDateTime": "2019-02-08T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-02-08T17:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 31903
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 98,
+      "teamName": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/b/b3/Fc_st_pauli_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-02-08T20:19:17.673",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 85942,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 85944,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 75899,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 32,
+        "goalGetterID": 16985,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 75900,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 38,
+        "goalGetterID": 1002,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 75902,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 53,
+        "goalGetterID": 16985,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 75903,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 58,
+        "goalGetterID": 16985,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 75904,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 85,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51683,
+    "matchDateTime": "2019-02-15T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-02-15T17:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 31904
+    },
+    "team1": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-02-15T20:25:29.693",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86050,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86052,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 76039,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76040,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76041,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 16941,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76042,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 16868,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76043,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 16304,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51684,
+    "matchDateTime": "2019-02-23T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-02-23T12:00:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 31905
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 119,
+      "teamName": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SV_Sandhausen.svg/200px-SV_Sandhausen.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-02-23T15:40:56.407",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86137,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86143,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 76135,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76143,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76144,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76145,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51664,
+    "matchDateTime": "2019-02-27T19:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-02-27T18:00:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 31902
+    },
+    "team1": {
+      "teamId": 66,
+      "teamName": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/1/13/Fc_erzgebirge_aue.svg/243px-Fc_erzgebirge_aue.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-02-27T21:22:21.717",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86213,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86214,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 76226,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51697,
+    "matchDateTime": "2019-03-03T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-03-03T12:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 31906
+    },
+    "team1": {
+      "teamId": 171,
+      "teamName": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/5/55/FC-Ingolstadt_logo.svg/125px-FC-Ingolstadt_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-03-03T15:40:08.973",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86282,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86285,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 76326,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 40,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76327,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 59,
+        "goalGetterID": 7337,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76328,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 90,
+        "goalGetterID": 17376,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": "+1"
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51702,
+    "matchDateTime": "2019-03-09T13:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-03-09T12:00:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 31907
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 83,
+      "teamName": "Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_mit_Rand.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-03-09T16:38:33.68",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86355,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86388,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 76462,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76463,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76464,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76465,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76466,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76467,
+        "scoreTeam1": 5,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51721,
+    "matchDateTime": "2019-03-31T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-03-31T11:30:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 31909
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 104,
+      "teamName": "Holstein Kiel",
+      "shortName": "Kiel",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/300px-Holstein_Kiel_Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-03-31T15:21:55.653",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86600,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86603,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 76790,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 22,
+        "goalGetterID": 1529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76791,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 26,
+        "goalGetterID": 12511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76792,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 46,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76799,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 90,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": "+1"
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51736,
+    "matchDateTime": "2019-04-07T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-04-07T11:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 31910
+    },
+    "team1": {
+      "teamId": 199,
+      "teamName": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/830px-1._FC_Heidenheim_1846.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-04-07T15:23:54.827",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86724,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86729,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 76967,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76968,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51716,
+    "matchDateTime": "2019-04-10T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-04-10T16:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 31908
+    },
+    "team1": {
+      "teamId": 107,
+      "teamName": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Msv_duisburg%28new%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-04-10T21:20:45.367",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86756,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86757,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 76996,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 2,
+        "goalGetterID": 14547,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76997,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 24,
+        "goalGetterID": 16059,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76998,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 29,
+        "goalGetterID": 17349,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 76999,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 47,
+        "goalGetterID": 16920,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77000,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 53,
+        "goalGetterID": 16059,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77001,
+        "scoreTeam1": 2,
+        "scoreTeam2": 4,
+        "matchMinute": 54,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77002,
+        "scoreTeam1": 3,
+        "scoreTeam2": 4,
+        "matchMinute": 71,
+        "goalGetterID": 14547,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77003,
+        "scoreTeam1": 4,
+        "scoreTeam2": 4,
+        "matchMinute": 81,
+        "goalGetterID": 11614,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51739,
+    "matchDateTime": "2019-04-15T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-04-15T18:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 31911
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 100,
+      "teamName": "Hamburger SV",
+      "shortName": "HSV",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-04-19T14:14:31.86",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86811,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86826,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 77076,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 26,
+        "goalGetterID": 16995,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77086,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 85,
+        "goalGetterID": 16526,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51755,
+    "matchDateTime": "2019-04-21T13:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-04-21T11:30:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 31912
+    },
+    "team1": {
+      "teamId": 177,
+      "teamName": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_SG_Dynamo_Dresden_neu.svg/284px-Logo_SG_Dynamo_Dresden_neu.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-04-21T17:00:08.357",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86864,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86865,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 77143,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 12,
+        "goalGetterID": 11443,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77144,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 35,
+        "goalGetterID": 16474,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77145,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 66,
+        "goalGetterID": 11443,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51757,
+    "matchDateTime": "2019-04-26T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-04-26T16:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 31913
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 118,
+      "teamName": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SV_Darmstadt_98_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-04-26T20:24:28.583",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 86896,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 86898,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 77186,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 34,
+        "goalGetterID": 16019,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77187,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 66,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77188,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 76,
+        "goalGetterID": 16475,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51774,
+    "matchDateTime": "2019-05-06T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-05-06T18:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 31914
+    },
+    "team1": {
+      "teamId": 115,
+      "teamName": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "teamIconUrl": "https://i.imgur.com/pwuVbKr.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-05-06T22:21:40.737",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 87039,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 87042,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 77418,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77419,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 20,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77420,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 41,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77423,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 65,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51775,
+    "matchDateTime": "2019-05-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-05-12T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 31915
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 181,
+      "teamName": "Jahn Regensburg",
+      "shortName": "Regensburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/204px-Jahn_Regensburg_logo2014.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-05-12T17:24:12.93",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 87085,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 87101,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 5,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 77480,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 7,
+        "goalGetterID": 6771,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77495,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 34,
+        "goalGetterID": 16332,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77499,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 45,
+        "goalGetterID": 16310,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77504,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 65,
+        "goalGetterID": 12511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77505,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 68,
+        "goalGetterID": 16332,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77507,
+        "scoreTeam1": 2,
+        "scoreTeam2": 4,
+        "matchMinute": 73,
+        "goalGetterID": 12511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77510,
+        "scoreTeam1": 3,
+        "scoreTeam2": 4,
+        "matchMinute": 76,
+        "goalGetterID": 11344,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77517,
+        "scoreTeam1": 3,
+        "scoreTeam2": 5,
+        "matchMinute": 90,
+        "goalGetterID": 15606,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 51792,
+    "matchDateTime": "2019-05-19T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4280,
+    "leagueName": "2. Fußball-Bundesliga 2018/2019",
+    "leagueSeason": 2018,
+    "leagueShortcut": "bl2",
+    "matchDateTimeUTC": "2019-05-19T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 31916
+    },
+    "team1": {
+      "teamId": 78,
+      "teamName": "1. FC Magdeburg",
+      "shortName": "Magdeburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/210px-1._FC_Magdeburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-05-19T17:28:07.62",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 87162,
+        "resultName": "Halbzeitergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Ergebnis zur Halbzeit"
+      },
+      {
+        "resultID": 87171,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Spielende"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 77627,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 77628,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": null,
+        "goalGetterID": 0,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

@@ -1,0 +1,3131 @@
+[
+  {
+    "matchID": 63869,
+    "matchDateTime": "2022-08-07T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-08-07T15:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 39881
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-08-07T20:34:59.85",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 98459,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 98460,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 95099,
+        "scoreTeam1": 0,
+        "scoreTeam2": 0,
+        "matchMinute": null,
+        "goalGetterID": 18196,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95100,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 49,
+        "goalGetterID": 19305,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95101,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 65,
+        "goalGetterID": 18731,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95102,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 76,
+        "goalGetterID": 18968,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95103,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 80,
+        "goalGetterID": 16424,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63879,
+    "matchDateTime": "2022-08-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-08-13T13:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 39882
+    },
+    "team1": {
+      "teamId": 1635,
+      "teamName": "RB Leipzig",
+      "shortName": "Leipzig",
+      "teamIconUrl": "https://i.imgur.com/Rpwsjz1.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-08-13T17:24:04.263",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 98631,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 98632,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 95358,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 36,
+        "goalGetterID": 14551,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95360,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 40,
+        "goalGetterID": 19465,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95363,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 56,
+        "goalGetterID": 18782,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95364,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 72,
+        "goalGetterID": 19193,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63887,
+    "matchDateTime": "2022-08-21T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-08-21T13:30:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 39883
+    },
+    "team1": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-08-21T17:26:10.877",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 98681,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 98682,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 95456,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 72,
+        "goalGetterID": 18616,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95457,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 82,
+        "goalGetterID": 18496,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63895,
+    "matchDateTime": "2022-08-28T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-08-28T13:30:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 39884
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-08-28T17:28:12.477",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 98719,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 98720,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63909,
+    "matchDateTime": "2022-09-03T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-09-03T13:30:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 39885
+    },
+    "team1": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-09-03T17:28:36.447",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 98832,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 4,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 98833,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 95725,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 2,
+        "goalGetterID": 19021,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95730,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 22,
+        "goalGetterID": 19311,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95732,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 32,
+        "goalGetterID": 19503,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95733,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 45,
+        "goalGetterID": 18731,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 95739,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 79,
+        "goalGetterID": 19021,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 95740,
+        "scoreTeam1": 2,
+        "scoreTeam2": 4,
+        "matchMinute": 81,
+        "goalGetterID": 18368,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63915,
+    "matchDateTime": "2022-09-11T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-09-11T13:30:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 39886
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-09-11T17:27:50.293",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 98996,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 98997,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 95953,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 4,
+        "goalGetterID": 18524,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63921,
+    "matchDateTime": "2022-09-18T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-09-18T15:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 39887
+    },
+    "team1": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-09-18T19:25:59.973",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 99134,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 99135,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 96144,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 9,
+        "goalGetterID": 18571,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96145,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 88,
+        "goalGetterID": 19086,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63932,
+    "matchDateTime": "2022-10-01T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-10-01T13:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 39888
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-10-02T11:45:10.373",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 99268,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 99269,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 96363,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 31,
+        "goalGetterID": 18492,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96371,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 53,
+        "goalGetterID": 18731,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96372,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 56,
+        "goalGetterID": 19135,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96374,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 71,
+        "goalGetterID": 19311,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96375,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 78,
+        "goalGetterID": 18571,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": "KÖÖÖÖÖÖÖÖLN"
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63941,
+    "matchDateTime": "2022-10-09T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-10-09T13:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 39889
+    },
+    "team1": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-10-09T17:28:27.67",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 99437,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 99438,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 96691,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 27,
+        "goalGetterID": 374,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96692,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 31,
+        "goalGetterID": 18731,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96693,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 45,
+        "goalGetterID": 18717,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 96694,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 47,
+        "goalGetterID": 18324,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96695,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 76,
+        "goalGetterID": 18717,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96696,
+        "scoreTeam1": 4,
+        "scoreTeam2": 2,
+        "matchMinute": 84,
+        "goalGetterID": 19587,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96697,
+        "scoreTeam1": 5,
+        "scoreTeam2": 2,
+        "matchMinute": 90,
+        "goalGetterID": 18573,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63948,
+    "matchDateTime": "2022-10-16T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-10-16T13:30:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 39890
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-10-16T17:26:01.303",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 99617,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 99618,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 96959,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 14,
+        "goalGetterID": 18511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96968,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 47,
+        "goalGetterID": 19135,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96969,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 61,
+        "goalGetterID": 19587,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96970,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 69,
+        "goalGetterID": 7963,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 96971,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 81,
+        "goalGetterID": 19135,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63963,
+    "matchDateTime": "2022-10-21T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-10-21T18:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 39891
+    },
+    "team1": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-10-21T22:21:07.787",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 99723,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 99724,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 97132,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 11,
+        "goalGetterID": 18513,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97133,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 35,
+        "goalGetterID": 18674,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97134,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 40,
+        "goalGetterID": 18645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97135,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 73,
+        "goalGetterID": 19255,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97136,
+        "scoreTeam1": 5,
+        "scoreTeam2": 0,
+        "matchMinute": 84,
+        "goalGetterID": 18615,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63966,
+    "matchDateTime": "2022-10-30T19:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-10-30T18:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 39892
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-10-30T21:25:32.267",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 99880,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 99881,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 97381,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 13,
+        "goalGetterID": 18731,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97382,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 35,
+        "goalGetterID": 19027,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63977,
+    "matchDateTime": "2022-11-06T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-11-06T16:30:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 39893
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-11-06T19:21:54.487",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 99947,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 99948,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 97514,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 53,
+        "goalGetterID": 18590,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97515,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 64,
+        "goalGetterID": 18815,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63985,
+    "matchDateTime": "2022-11-09T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-11-09T17:30:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 39894
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-11-09T20:40:46.45",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 99985,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 99986,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 97555,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 30,
+        "goalGetterID": 18571,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97562,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 65,
+        "goalGetterID": 18410,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97563,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 71,
+        "goalGetterID": 18460,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 63995,
+    "matchDateTime": "2022-11-12T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2022-11-12T14:30:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 39895
+    },
+    "team1": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2022-11-12T17:26:30.49",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 100016,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 100017,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 97626,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 9,
+        "goalGetterID": 19603,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 97631,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 54,
+        "goalGetterID": 18454,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64004,
+    "matchDateTime": "2023-01-21T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-01-21T17:30:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 39896
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-01-21T20:23:36.793",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 100832,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 7,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 100833,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 5,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 98431,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 9,
+        "goalGetterID": 19086,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 98432,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 15,
+        "goalGetterID": 19135,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 98433,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 21,
+        "goalGetterID": 19135,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 98434,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 30,
+        "goalGetterID": 18634,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 98435,
+        "scoreTeam1": 5,
+        "scoreTeam2": 0,
+        "matchMinute": 36,
+        "goalGetterID": 19587,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 98436,
+        "scoreTeam1": 5,
+        "scoreTeam2": 1,
+        "matchMinute": 38,
+        "goalGetterID": 18661,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 98437,
+        "scoreTeam1": 6,
+        "scoreTeam2": 1,
+        "matchMinute": 54,
+        "goalGetterID": 18634,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 98438,
+        "scoreTeam1": 7,
+        "scoreTeam2": 1,
+        "matchMinute": 76,
+        "goalGetterID": 19203,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64011,
+    "matchDateTime": "2023-01-24T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-01-24T19:30:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 39897
+    },
+    "team1": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-01-24T22:22:36.45",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 100844,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 100845,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 98462,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 4,
+        "goalGetterID": 18634,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 98470,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 90,
+        "goalGetterID": 15977,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64025,
+    "matchDateTime": "2023-01-29T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-01-29T14:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 39898
+    },
+    "team1": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-01-29T17:25:12.46",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 100894,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 100895,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64032,
+    "matchDateTime": "2023-02-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-02-04T14:30:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 39899
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1635,
+      "teamName": "RB Leipzig",
+      "shortName": "Leipzig",
+      "teamIconUrl": "https://i.imgur.com/Rpwsjz1.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-02-04T17:24:51.507",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 101056,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 101057,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64040,
+    "matchDateTime": "2023-02-12T17:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-02-12T16:30:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 39900
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-02-12T19:24:37.697",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 101149,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 101150,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 99213,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 49,
+        "goalGetterID": 18524,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 99214,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 71,
+        "goalGetterID": 18634,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 99215,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 86,
+        "goalGetterID": 18634,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64051,
+    "matchDateTime": "2023-02-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-02-18T14:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 39901
+    },
+    "team1": {
+      "teamId": 16,
+      "teamName": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-02-18T17:24:38.37",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 101368,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 101369,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 99406,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 9,
+        "goalGetterID": 19768,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 99413,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 59,
+        "goalGetterID": 18982,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 99414,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 74,
+        "goalGetterID": 18285,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64058,
+    "matchDateTime": "2023-02-25T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-02-25T14:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 39902
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-02-25T17:29:10.07",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 101498,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 101499,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 99599,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 4,
+        "goalGetterID": 18377,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 99608,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 68,
+        "goalGetterID": 18591,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64070,
+    "matchDateTime": "2023-03-04T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-03-04T14:30:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 39903
+    },
+    "team1": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-03-04T17:26:46.293",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 101885,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 101886,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64076,
+    "matchDateTime": "2023-03-10T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-03-10T19:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 39904
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 129,
+      "teamName": "VfL Bochum",
+      "shortName": "Bochum",
+      "teamIconUrl": "https://i.imgur.com/5jy3Gfr.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-04-14T16:08:27.877",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 101938,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 101939,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 100233,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 9,
+        "goalGetterID": 18602,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 100253,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 77,
+        "goalGetterID": 19504,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 64084,
+    "matchDateTime": "2023-03-18T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-03-18T17:30:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 39905
+    },
+    "team1": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-04-14T16:03:24.03",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102134,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 6,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102135,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 100557,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 15,
+        "goalGetterID": 18618,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 100558,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 17,
+        "goalGetterID": 19771,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 100559,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 32,
+        "goalGetterID": 18703,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 100560,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 36,
+        "goalGetterID": 19156,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 100561,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 42,
+        "goalGetterID": 18521,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 100562,
+        "scoreTeam1": 5,
+        "scoreTeam2": 1,
+        "matchMinute": 69,
+        "goalGetterID": 19771,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 100563,
+        "scoreTeam1": 6,
+        "scoreTeam2": 1,
+        "matchMinute": 70,
+        "goalGetterID": 18703,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 35,
+      "locationCity": "Dortmund",
+      "locationStadium": "Signal Iduna Park"
+    },
+    "numberOfViewers": 81365
+  },
+  {
+    "matchID": 64093,
+    "matchDateTime": "2023-04-02T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-04-02T13:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 39906
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-04-18T14:35:27.167",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102409,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102410,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 64099,
+    "matchDateTime": "2023-04-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-04-08T13:30:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 39907
+    },
+    "team1": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-04-14T12:33:22.417",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102544,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102545,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 101086,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 7,
+        "goalGetterID": 18634,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101087,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 16,
+        "goalGetterID": 20035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101089,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 29,
+        "goalGetterID": 18654,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101092,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 59,
+        "goalGetterID": 19086,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 1029,
+      "locationCity": "Augsburg",
+      "locationStadium": "WWK Arena"
+    },
+    "numberOfViewers": 30660
+  },
+  {
+    "matchID": 64110,
+    "matchDateTime": "2023-04-15T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-04-15T13:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 39908
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-04-15T17:26:34.643",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102620,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102621,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 101214,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 17,
+        "goalGetterID": 19846,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101219,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 52,
+        "goalGetterID": 19311,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64124,
+    "matchDateTime": "2023-04-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-04-22T13:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 39909
+    },
+    "team1": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-04-22T17:26:30.95",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102716,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102717,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 101363,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 18,
+        "goalGetterID": 18731,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101370,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 39,
+        "goalGetterID": 18521,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101381,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 92,
+        "goalGetterID": 18496,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101382,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 94,
+        "goalGetterID": 19769,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64129,
+    "matchDateTime": "2023-04-29T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-04-29T13:30:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 39910
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-04-29T17:25:24.48",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102774,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102775,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 101473,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 54,
+        "goalGetterID": 18500,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64136,
+    "matchDateTime": "2023-05-05T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-05-05T18:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 39911
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-05-06T09:00:08.077",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102818,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102819,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 101540,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 14,
+        "goalGetterID": 18521,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101542,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 28,
+        "goalGetterID": 19155,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101543,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 36,
+        "goalGetterID": 18521,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64148,
+    "matchDateTime": "2023-05-12T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-05-12T18:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 39912
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-05-12T22:28:57.107",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102891,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102892,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 3,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 101657,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 8,
+        "goalGetterID": 18521,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101658,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 18,
+        "goalGetterID": 18741,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101659,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 33,
+        "goalGetterID": 19188,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101660,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 39,
+        "goalGetterID": 18524,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101661,
+        "scoreTeam1": 3,
+        "scoreTeam2": 2,
+        "matchMinute": 43,
+        "goalGetterID": 18634,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101665,
+        "scoreTeam1": 4,
+        "scoreTeam2": 2,
+        "matchMinute": 69,
+        "goalGetterID": 18524,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101670,
+        "scoreTeam1": 5,
+        "scoreTeam2": 2,
+        "matchMinute": 81,
+        "goalGetterID": 19587,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64161,
+    "matchDateTime": "2023-05-20T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-05-20T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 39913
+    },
+    "team1": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-05-21T15:34:41.063",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 102952,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 102953,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 101766,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 36,
+        "goalGetterID": 19135,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101770,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 73,
+        "goalGetterID": 19183,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 64166,
+    "matchDateTime": "2023-05-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4562,
+    "leagueName": "1. Fußball-Bundesliga 2022/2023",
+    "leagueSeason": 2022,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2023-05-27T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 39914
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2023-05-28T11:31:59.023",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 103000,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      },
+      {
+        "resultID": 103001,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 101840,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 8,
+        "goalGetterID": 18581,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101859,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 81,
+        "goalGetterID": 20093,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 101860,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 89,
+        "goalGetterID": 20094,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  }
+]

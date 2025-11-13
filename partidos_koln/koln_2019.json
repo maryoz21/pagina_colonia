@@ -1,0 +1,3360 @@
+[
+  {
+    "matchID": 55281,
+    "matchDateTime": "2019-08-17T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-08-17T13:30:00Z",
+    "group": {
+      "groupName": "1. Spieltag",
+      "groupOrderID": 1,
+      "groupID": 34200
+    },
+    "team1": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-08-17T17:24:49.363",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 89338,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 89337,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 80254,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 16,
+        "goalGetterID": 16180,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80272,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 60,
+        "goalGetterID": 16906,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80290,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 90,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55293,
+    "matchDateTime": "2019-08-23T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-08-23T18:30:00Z",
+    "group": {
+      "groupName": "2. Spieltag",
+      "groupOrderID": 2,
+      "groupID": 34201
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-08-23T22:24:17.977",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 89383,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 89382,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 3,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 80326,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 29,
+        "goalGetterID": 16995,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80327,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 70,
+        "goalGetterID": 16502,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80328,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 86,
+        "goalGetterID": 16937,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80329,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 90,
+        "goalGetterID": 16945,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55301,
+    "matchDateTime": "2019-08-31T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-08-31T13:30:00Z",
+    "group": {
+      "groupName": "3. Spieltag",
+      "groupOrderID": 3,
+      "groupID": 34202
+    },
+    "team1": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-08-31T17:29:38.83",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 89476,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 89475,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 80499,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 41,
+        "goalGetterID": 6771,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80503,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 53,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80510,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 90,
+        "goalGetterID": 17768,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55310,
+    "matchDateTime": "2019-09-14T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-09-14T13:30:00Z",
+    "group": {
+      "groupName": "4. Spieltag",
+      "groupOrderID": 4,
+      "groupID": 34203
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-09-14T17:28:05.36",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 89609,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 89608,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 80705,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 14,
+        "goalGetterID": 16907,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55313,
+    "matchDateTime": "2019-09-21T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-09-21T13:30:00Z",
+    "group": {
+      "groupName": "5. Spieltag",
+      "groupOrderID": 5,
+      "groupID": 34204
+    },
+    "team1": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-09-21T17:25:34.06",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 89690,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 89689,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 80836,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 3,
+        "goalGetterID": 1478,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80852,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 48,
+        "goalGetterID": 1478,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80855,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 62,
+        "goalGetterID": 7006,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 80856,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 73,
+        "goalGetterID": 15860,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55328,
+    "matchDateTime": "2019-09-29T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-09-29T16:00:00Z",
+    "group": {
+      "groupName": "6. Spieltag",
+      "groupOrderID": 6,
+      "groupID": 34205
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-09-29T19:49:58.98",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 89809,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 89808,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 81005,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 23,
+        "goalGetterID": 16911,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81006,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 58,
+        "goalGetterID": 11542,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81007,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 62,
+        "goalGetterID": 11542,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81008,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 83,
+        "goalGetterID": 17827,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55338,
+    "matchDateTime": "2019-10-05T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-10-05T16:30:00Z",
+    "group": {
+      "groupName": "7. Spieltag",
+      "groupOrderID": 7,
+      "groupID": 34206
+    },
+    "team1": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-10-05T20:23:36.36",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 89851,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 89850,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 81090,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 72,
+        "goalGetterID": 16455,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81091,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 90,
+        "goalGetterID": 15969,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55347,
+    "matchDateTime": "2019-10-20T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-10-20T13:30:00Z",
+    "group": {
+      "groupName": "8. Spieltag",
+      "groupOrderID": 8,
+      "groupID": 34207
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-10-20T17:23:50.883",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 89957,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 89956,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 81195,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 9,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81208,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 59,
+        "goalGetterID": 16920,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81209,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 85,
+        "goalGetterID": 17841,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55354,
+    "matchDateTime": "2019-10-25T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-10-25T18:30:00Z",
+    "group": {
+      "groupName": "9. Spieltag",
+      "groupOrderID": 9,
+      "groupID": 34208
+    },
+    "team1": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-10-25T22:21:27.3",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90005,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90004,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 81261,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 14,
+        "goalGetterID": 14471,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81262,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 21,
+        "goalGetterID": 17412,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81263,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 57,
+        "goalGetterID": 16356,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81264,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 83,
+        "goalGetterID": 16061,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55364,
+    "matchDateTime": "2019-11-03T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-11-03T14:30:00Z",
+    "group": {
+      "groupName": "10. Spieltag",
+      "groupOrderID": 10,
+      "groupID": 34209
+    },
+    "team1": {
+      "teamId": 185,
+      "teamName": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-11-03T17:28:30.123",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90182,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90181,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 81578,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 38,
+        "goalGetterID": 14925,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81579,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 61,
+        "goalGetterID": 15664,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55374,
+    "matchDateTime": "2019-11-08T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-11-08T19:30:00Z",
+    "group": {
+      "groupName": "11. Spieltag",
+      "groupOrderID": 11,
+      "groupID": 34210
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-11-08T22:31:56.787",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90217,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90216,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 81626,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 34,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81627,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 48,
+        "goalGetterID": 16997,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81629,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 98,
+        "goalGetterID": 17092,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 1091,
+      "locationCity": "",
+      "locationStadium": null
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55377,
+    "matchDateTime": "2019-11-23T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-11-23T17:30:00Z",
+    "group": {
+      "groupName": "12. Spieltag",
+      "groupOrderID": 12,
+      "groupID": 34211
+    },
+    "team1": {
+      "teamId": 1635,
+      "teamName": "RB Leipzig",
+      "shortName": "Leipzig",
+      "teamIconUrl": "https://i.imgur.com/Rpwsjz1.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-11-23T20:21:09.19",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90321,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90320,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 81786,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 22,
+        "goalGetterID": 14551,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81799,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 31,
+        "goalGetterID": 16078,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81806,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 37,
+        "goalGetterID": 17303,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81807,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 39,
+        "goalGetterID": 6771,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81808,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 79,
+        "goalGetterID": 16078,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55392,
+    "matchDateTime": "2019-11-30T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-11-30T14:30:00Z",
+    "group": {
+      "groupName": "13. Spieltag",
+      "groupOrderID": 13,
+      "groupID": 34212
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-11-30T17:27:16.34",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90388,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90387,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 81891,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 43,
+        "goalGetterID": 16153,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 81896,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 86,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55402,
+    "matchDateTime": "2019-12-08T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-12-08T14:30:00Z",
+    "group": {
+      "groupName": "14. Spieltag",
+      "groupOrderID": 14,
+      "groupID": 34213
+    },
+    "team1": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-12-08T17:21:22.237",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90502,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90501,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82059,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 33,
+        "goalGetterID": 17351,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82060,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 50,
+        "goalGetterID": 17351,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55410,
+    "matchDateTime": "2019-12-14T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-12-14T14:30:00Z",
+    "group": {
+      "groupName": "15. Spieltag",
+      "groupOrderID": 15,
+      "groupID": 34214
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2019-12-14T17:26:12.43",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90546,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90545,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82136,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 73,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82139,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 84,
+        "goalGetterID": 17841,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55416,
+    "matchDateTime": "2019-12-18T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-12-18T19:30:00Z",
+    "group": {
+      "groupName": "16. Spieltag",
+      "groupOrderID": 16,
+      "groupID": 34215
+    },
+    "team1": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-02-20T19:03:03.873",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90599,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90598,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82200,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 6,
+        "goalGetterID": 15641,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82202,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 30,
+        "goalGetterID": 17375,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82203,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 44,
+        "goalGetterID": 15969,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82208,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 72,
+        "goalGetterID": 17841,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82209,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 82,
+        "goalGetterID": 16995,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82213,
+        "scoreTeam1": 2,
+        "scoreTeam2": 4,
+        "matchMinute": 90,
+        "goalGetterID": 17895,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 183,
+      "locationCity": "Frankfurt",
+      "locationStadium": "Commerzbank-Arena"
+    },
+    "numberOfViewers": 50300
+  },
+  {
+    "matchID": 55428,
+    "matchDateTime": "2019-12-21T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2019-12-21T14:30:00Z",
+    "group": {
+      "groupName": "17. Spieltag",
+      "groupOrderID": 17,
+      "groupID": 34216
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-02-20T18:54:34.297",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90629,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90628,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82264,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 39,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 55437,
+    "matchDateTime": "2020-01-18T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-01-18T14:30:00Z",
+    "group": {
+      "groupName": "18. Spieltag",
+      "groupOrderID": 18,
+      "groupID": 34217
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 131,
+      "teamName": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/316px-Logo-VfL-Wolfsburg.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-02-19T20:31:01.377",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90700,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90699,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82352,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 22,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82356,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 45,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82364,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 63,
+        "goalGetterID": 12511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82365,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 66,
+        "goalGetterID": 16940,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 49100
+  },
+  {
+    "matchID": 55440,
+    "matchDateTime": "2020-01-24T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-01-24T19:30:00Z",
+    "group": {
+      "groupName": "19. Spieltag",
+      "groupOrderID": 19,
+      "groupID": 34218
+    },
+    "team1": {
+      "teamId": 7,
+      "teamName": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/560px-Borussia_Dortmund_logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-02-19T20:19:55.33",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90722,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90721,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 5,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82406,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 1,
+        "goalGetterID": 18618,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82407,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 31,
+        "goalGetterID": 3426,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82408,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 48,
+        "goalGetterID": 16502,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82409,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 64,
+        "goalGetterID": 15596,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82410,
+        "scoreTeam1": 4,
+        "scoreTeam2": 1,
+        "matchMinute": 77,
+        "goalGetterID": 17905,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82411,
+        "scoreTeam1": 5,
+        "scoreTeam2": 1,
+        "matchMinute": 87,
+        "goalGetterID": 17905,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 35,
+      "locationCity": "Dortmund",
+      "locationStadium": "Signal Iduna Park"
+    },
+    "numberOfViewers": 81365
+  },
+  {
+    "matchID": 55455,
+    "matchDateTime": "2020-02-02T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-02-02T14:30:00Z",
+    "group": {
+      "groupName": "20. Spieltag",
+      "groupOrderID": 20,
+      "groupID": 34219
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 112,
+      "teamName": "SC Freiburg",
+      "shortName": "Freiburg",
+      "teamIconUrl": "https://i.imgur.com/r3mvi0h.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-02-19T20:18:10.697",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90831,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90830,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 4,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82588,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 29,
+        "goalGetterID": 17841,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82595,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 55,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82596,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 91,
+        "goalGetterID": 17923,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      },
+      {
+        "goalID": 82597,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 92,
+        "goalGetterID": 17895,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 55472,
+    "matchDateTime": "2020-02-16T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-02-16T14:30:00Z",
+    "group": {
+      "groupName": "22. Spieltag",
+      "groupOrderID": 22,
+      "groupID": 34221
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 40,
+      "teamName": "FC Bayern München",
+      "shortName": "Bayern",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-02-17T19:50:32.843",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 90972,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 90971,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82803,
+        "scoreTeam1": 0,
+        "scoreTeam2": 0,
+        "matchMinute": 3,
+        "goalGetterID": 1478,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82804,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 3,
+        "goalGetterID": 1478,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82805,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 5,
+        "goalGetterID": 15424,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82806,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 12,
+        "goalGetterID": 16086,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82811,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 66,
+        "goalGetterID": 16086,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82812,
+        "scoreTeam1": 1,
+        "scoreTeam2": 4,
+        "matchMinute": 70,
+        "goalGetterID": 16042,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 509,
+      "locationCity": "Köln",
+      "locationStadium": "RheinEnergieStadion "
+    },
+    "numberOfViewers": 50000
+  },
+  {
+    "matchID": 55481,
+    "matchDateTime": "2020-02-22T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-02-22T14:30:00Z",
+    "group": {
+      "groupName": "23. Spieltag",
+      "groupOrderID": 23,
+      "groupID": 34222
+    },
+    "team1": {
+      "teamId": 54,
+      "teamName": "Hertha BSC",
+      "shortName": "Hertha",
+      "teamIconUrl": "https://i.imgur.com/apFwbYZ.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-02-23T09:49:34.337",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91028,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 3,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91027,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 0,
+        "pointsTeam2": 5,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 82890,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 4,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82892,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 22,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82902,
+        "scoreTeam1": 0,
+        "scoreTeam2": 3,
+        "matchMinute": 38,
+        "goalGetterID": 16413,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82906,
+        "scoreTeam1": 0,
+        "scoreTeam2": 4,
+        "matchMinute": 62,
+        "goalGetterID": 16413,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 82907,
+        "scoreTeam1": 0,
+        "scoreTeam2": 5,
+        "matchMinute": 70,
+        "goalGetterID": 15596,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 22,
+      "locationCity": "Berlin",
+      "locationStadium": "Olympiastadion"
+    },
+    "numberOfViewers": 46207
+  },
+  {
+    "matchID": 55491,
+    "matchDateTime": "2020-02-29T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-02-29T17:30:00Z",
+    "group": {
+      "groupName": "24. Spieltag",
+      "groupOrderID": 24,
+      "groupID": 34223
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 9,
+      "teamName": "FC Schalke 04",
+      "shortName": "Schalke",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-03-01T00:51:09.43",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91239,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91238,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83160,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 9,
+        "goalGetterID": 17841,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83161,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 39,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83162,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 75,
+        "goalGetterID": 17954,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55501,
+    "matchDateTime": "2020-03-06T20:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-03-06T19:00:00Z",
+    "group": {
+      "groupName": "25. Spieltag",
+      "groupOrderID": 25,
+      "groupID": 34224
+    },
+    "team1": {
+      "teamId": 31,
+      "teamName": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/SC_Paderborn_07_Logo.svg",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-03-06T21:53:21.813",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91275,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91274,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83220,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 28,
+        "goalGetterID": 16398,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83221,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 36,
+        "goalGetterID": 14625,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83233,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 73,
+        "goalGetterID": 17946,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55459,
+    "matchDateTime": "2020-03-11T18:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-03-11T17:30:00Z",
+    "group": {
+      "groupName": "21. Spieltag",
+      "groupOrderID": 21,
+      "groupID": 34220
+    },
+    "team1": {
+      "teamId": 87,
+      "teamName": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-03-11T21:08:16.13",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91368,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91367,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83354,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 32,
+        "goalGetterID": 16135,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83355,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 70,
+        "goalGetterID": 17968,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": true,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83356,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 81,
+        "goalGetterID": 16042,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": {
+      "locationID": 444,
+      "locationCity": "Mönchengladbach",
+      "locationStadium": "Borussia-Park"
+    },
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55509,
+    "matchDateTime": "2020-05-17T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-05-17T13:30:00Z",
+    "group": {
+      "groupName": "26. Spieltag",
+      "groupOrderID": 26,
+      "groupID": 34225
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 81,
+      "teamName": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-05-17T17:37:11.11",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91405,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91404,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83424,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 6,
+        "goalGetterID": 16042,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83427,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 53,
+        "goalGetterID": 16413,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83428,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 61,
+        "goalGetterID": 15676,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83429,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 72,
+        "goalGetterID": 17871,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55518,
+    "matchDateTime": "2020-05-24T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-05-24T16:00:00Z",
+    "group": {
+      "groupName": "27. Spieltag",
+      "groupOrderID": 27,
+      "groupID": 34226
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 185,
+      "teamName": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-05-24T19:57:38.127",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91448,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91447,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83492,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 41,
+        "goalGetterID": 15271,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83493,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 61,
+        "goalGetterID": 15664,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83494,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 88,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83495,
+        "scoreTeam1": 2,
+        "scoreTeam2": 2,
+        "matchMinute": 91,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55525,
+    "matchDateTime": "2020-05-27T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-05-27T18:30:00Z",
+    "group": {
+      "groupName": "28. Spieltag",
+      "groupOrderID": 28,
+      "groupID": 34227
+    },
+    "team1": {
+      "teamId": 175,
+      "teamName": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-05-27T22:24:51.93",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91480,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91479,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83528,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 11,
+        "goalGetterID": 18529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83532,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 46,
+        "goalGetterID": 18529,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83533,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 48,
+        "goalGetterID": 16174,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83535,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 60,
+        "goalGetterID": 14499,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55536,
+    "matchDateTime": "2020-06-01T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-06-01T18:30:00Z",
+    "group": {
+      "groupName": "29. Spieltag",
+      "groupOrderID": 29,
+      "groupID": 34228
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 1635,
+      "teamName": "RB Leipzig",
+      "shortName": "Leipzig",
+      "teamIconUrl": "https://i.imgur.com/Rpwsjz1.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-06-01T22:24:43.573",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91536,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91535,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 2,
+        "pointsTeam2": 4,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83628,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 7,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83629,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 20,
+        "goalGetterID": 17875,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83630,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 38,
+        "goalGetterID": 17734,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83631,
+        "scoreTeam1": 1,
+        "scoreTeam2": 3,
+        "matchMinute": 50,
+        "goalGetterID": 14551,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83632,
+        "scoreTeam1": 2,
+        "scoreTeam2": 3,
+        "matchMinute": 55,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83633,
+        "scoreTeam1": 2,
+        "scoreTeam2": 4,
+        "matchMinute": 57,
+        "goalGetterID": 17926,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55545,
+    "matchDateTime": "2020-06-07T18:00:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-06-07T16:00:00Z",
+    "group": {
+      "groupName": "30. Spieltag",
+      "groupOrderID": 30,
+      "groupID": 34229
+    },
+    "team1": {
+      "teamId": 95,
+      "teamName": "FC Augsburg",
+      "shortName": "Augsburg",
+      "teamIconUrl": "https://i.imgur.com/sdE62e2.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-06-07T19:52:20.733",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91622,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91621,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83746,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 86,
+        "goalGetterID": 16035,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83747,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 88,
+        "goalGetterID": 16688,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55554,
+    "matchDateTime": "2020-06-13T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-06-13T13:30:00Z",
+    "group": {
+      "groupName": "31. Spieltag",
+      "groupOrderID": 31,
+      "groupID": 34230
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 80,
+      "teamName": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-06-13T17:24:29.573",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91755,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 0,
+        "pointsTeam2": 1,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91754,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 2,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 83958,
+        "scoreTeam1": 0,
+        "scoreTeam2": 1,
+        "matchMinute": 39,
+        "goalGetterID": 374,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83967,
+        "scoreTeam1": 0,
+        "scoreTeam2": 2,
+        "matchMinute": 67,
+        "goalGetterID": 3586,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 83971,
+        "scoreTeam1": 1,
+        "scoreTeam2": 2,
+        "matchMinute": 93,
+        "goalGetterID": 15645,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": true,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55558,
+    "matchDateTime": "2020-06-17T20:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-06-17T18:30:00Z",
+    "group": {
+      "groupName": "32. Spieltag",
+      "groupOrderID": 32,
+      "groupID": 34231
+    },
+    "team1": {
+      "teamId": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "teamIconUrl": "https://www.bundesliga-reisefuehrer.de/sites/default/files/B04_Standard_Logo_RGB.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-06-17T22:23:18.52",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91843,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 2,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91842,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 3,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 84077,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 7,
+        "goalGetterID": 13511,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84080,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 40,
+        "goalGetterID": 16261,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84091,
+        "scoreTeam1": 2,
+        "scoreTeam2": 1,
+        "matchMinute": 59,
+        "goalGetterID": 17841,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84097,
+        "scoreTeam1": 3,
+        "scoreTeam2": 1,
+        "matchMinute": 83,
+        "goalGetterID": 392,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55572,
+    "matchDateTime": "2020-06-20T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-06-20T13:30:00Z",
+    "group": {
+      "groupName": "33. Spieltag",
+      "groupOrderID": 33,
+      "groupID": 34232
+    },
+    "team1": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 91,
+      "teamName": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-06-20T17:25:22.883",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91883,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 1,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91882,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 1,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 84144,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 45,
+        "goalGetterID": 16413,
+        "goalGetterName": "",
+        "isPenalty": true,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84155,
+        "scoreTeam1": 1,
+        "scoreTeam2": 1,
+        "matchMinute": 72,
+        "goalGetterID": 14795,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  },
+  {
+    "matchID": 55579,
+    "matchDateTime": "2020-06-27T15:30:00",
+    "timeZoneID": "W. Europe Standard Time",
+    "leagueId": 4362,
+    "leagueName": "1. Fußball-Bundesliga 2019/2020",
+    "leagueSeason": 2019,
+    "leagueShortcut": "bl1",
+    "matchDateTimeUTC": "2020-06-27T13:30:00Z",
+    "group": {
+      "groupName": "34. Spieltag",
+      "groupOrderID": 34,
+      "groupID": 34233
+    },
+    "team1": {
+      "teamId": 134,
+      "teamName": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png",
+      "teamGroupName": null
+    },
+    "team2": {
+      "teamId": 65,
+      "teamName": "1. FC Köln",
+      "shortName": "Köln",
+      "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014–.svg/296px-1._FC_Koeln_Logo_2014–.svg.png",
+      "teamGroupName": null
+    },
+    "lastUpdateDateTime": "2020-06-27T17:23:06.707",
+    "matchIsFinished": true,
+    "matchResults": [
+      {
+        "resultID": 91972,
+        "resultName": "Halbzeit",
+        "pointsTeam1": 3,
+        "pointsTeam2": 0,
+        "resultOrderID": 1,
+        "resultTypeID": 1,
+        "resultDescription": "Zwischenstand zur Halbzeit"
+      },
+      {
+        "resultID": 91971,
+        "resultName": "Endergebnis",
+        "pointsTeam1": 6,
+        "pointsTeam2": 1,
+        "resultOrderID": 2,
+        "resultTypeID": 2,
+        "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+      }
+    ],
+    "goals": [
+      {
+        "goalID": 84285,
+        "scoreTeam1": 1,
+        "scoreTeam2": 0,
+        "matchMinute": 22,
+        "goalGetterID": 14205,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84289,
+        "scoreTeam1": 2,
+        "scoreTeam2": 0,
+        "matchMinute": 27,
+        "goalGetterID": 16434,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84292,
+        "scoreTeam1": 3,
+        "scoreTeam2": 0,
+        "matchMinute": 30,
+        "goalGetterID": 18661,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84302,
+        "scoreTeam1": 4,
+        "scoreTeam2": 0,
+        "matchMinute": 55,
+        "goalGetterID": 14769,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84304,
+        "scoreTeam1": 5,
+        "scoreTeam2": 0,
+        "matchMinute": 58,
+        "goalGetterID": 14205,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84306,
+        "scoreTeam1": 5,
+        "scoreTeam2": 1,
+        "matchMinute": 62,
+        "goalGetterID": 7337,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      },
+      {
+        "goalID": 84308,
+        "scoreTeam1": 6,
+        "scoreTeam2": 1,
+        "matchMinute": 68,
+        "goalGetterID": 16991,
+        "goalGetterName": "",
+        "isPenalty": false,
+        "isOwnGoal": false,
+        "isOvertime": false,
+        "comment": null
+      }
+    ],
+    "location": null,
+    "numberOfViewers": null
+  }
+]
