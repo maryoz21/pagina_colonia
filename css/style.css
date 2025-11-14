@@ -1,0 +1,186 @@
+/**
+ * ARCHIVO: css/style.css
+ * ---------------------
+ * Hoja de estilos principal de la aplicación.
+ */
+
+/* --- Estilos Generales --- */
+body {
+  font-family: 'Arial', sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  color: #333;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* --- Encabezado --- */
+header {
+  background: #c60c30; /* Rojo Köln */
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+h2 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+  color: #c60c30;
+}
+
+/* --- Navegación por Pestañas --- */
+nav.container {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  display: flex;
+  gap: 0.5rem;
+  border-bottom: 2px solid #ddd;
+}
+
+.nav-button {
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  background: #eee;
+  color: #555;
+  border-radius: 8px 8px 0 0;
+  border-bottom: 2px solid transparent;
+  position: relative;
+  top: 2px; /* Alinea con el borde inferior */
+}
+
+.nav-button:hover {
+  background: #ddd;
+}
+
+.nav-button.active {
+  background: white;
+  color: #c60c30;
+  border: 2px solid #ddd;
+  border-bottom: 2px solid white;
+}
+
+/* --- Controles (Selectores) --- */
+.controls {
+  margin-bottom: 1.5rem;
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+label {
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+select {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+}
+
+/* --- Vistas (Contenedores de Pestañas) --- */
+.view {
+  display: none; /* Ocultas por defecto */
+}
+
+.view.active {
+  display: block; /* La pestaña activa se muestra */
+}
+
+/* --- Cajas de Estadísticas --- */
+.stats {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.stat-box {
+  flex: 1 1 150px; /* Responsive */
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+.stat-box strong {
+  font-size: 1.8rem;
+  display: block;
+}
+
+.stat-box h3 {
+  margin: 0.5rem 0 0 0;
+  font-size: 1.1rem;
+  color: #c60c30;
+}
+
+/* --- Tabla de Partidos --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  background: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background: #eee;
+}
+
+.team {
+  font-weight: bold;
+}
+
+.score {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.1rem;
+  white-space: nowrap;
+}
+
+.stadium {
+  font-style: italic;
+  color: #666;
+}
+
+/* Clases de resultado (para las filas) */
+tr.victoria {
+  background-color: #d4edda; /* Verde */
+}
+tr.empate {
+  background-color: #fff3cd; /* Amarillo */
+}
+tr.derrota {
+  background-color: #f8d7da; /* Rojo */
+}
+
+/* --- Contenedor del Mapa --- */
+#map-container {
+  height: 500px; /* Altura fija para el mapa */
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  background: #eee; /* Color de fondo mientras carga */
+}

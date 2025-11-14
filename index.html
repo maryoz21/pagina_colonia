@@ -1,260 +1,83 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>1. FC Köln - Partidos y Estadísticas</title>
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-    background: #f5f5f5;
-    margin: 0;
-    color: #333;
-  }
-  header {
-    background: #c60c30;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-  }
-  h1 {
-    margin: 0;
-  }
-  .container {
-    max-width: 1000px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-  }
-  label {
-    font-weight: bold;
-    margin-right: 0.5rem;
-  }
-  select {
-    padding: 0.5rem;
-    font-size: 1rem;
-    margin-bottom: 1.5rem;
-  }
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 1.5rem;
-    background: white;
-    box-shadow: 0 0 10px rgba(0,0,0,0.05);
-  }
-  th, td {
-    padding: 0.75rem;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-  }
-  th {
-    background: #eee;
-  }
-  /* Clases de resultado */
-  tr.victoria {
-    background-color: #d4edda; /* Verde */
-  }
-  tr.empate {
-    background-color: #fff3cd; /* Amarillo */
-  }
-  tr.derrota {
-    background-color: #f8d7da; /* Rojo */
-  }
-  .team {
-    font-weight: bold;
-  }
-  .score {
-    font-weight: bold;
-    text-align: center;
-    font-size: 1.1rem;
-  }
-  .stadium {
-    font-style: italic;
-    color: #666;
-  }
-  /* Contenedor de estadísticas */
-  .stats {
-    display: flex;
-    gap: 1.5rem;
-    margin-bottom: 2rem;
-    flex-wrap: wrap;
-  }
-  .stat-box {
-    flex: 1 1 150px;
-    background: white;
-    padding: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    text-align: center;
-  }
-  .stat-box strong {
-    font-size: 1.8rem;
-    display: block;
-  }
-  .stat-box h3 {
-    margin: 0.5rem 0 0 0;
-    font-size: 1.1rem;
-    color: #c60c30;
-  }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1. FC Köln - Estadísticas</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<header>
-  <h1>1. FC Köln - Partidos y Estadísticas</h1>
-</header>
+    <header>
+        <h1>1. FC Köln - Estadísticas</h1>
+    </header>
 
-<div class="container">
-  <label for="season">Selecciona temporada:</label>
-  <select id="season"></select>
+    <nav class="container">
+        <button id="nav-season" class="nav-button active">Por Temporada</button>
+        <button id="nav-rivals" class="nav-button">Contra Rivales (H2H)</button>
+        <button id="nav-map" class="nav-button">Mapa de Estadios</button>
+    </nav>
 
-  <div class="stats" id="stats">
-    </div>
+    <main class="container">
 
-  <table>
-    <thead>
-      <tr>
-        <th>Fecha</th>
-        <th>Local</th>
-        <th>Marcador</th>
-        <th>Visitante</th>
-        <th>Estadio</th>
-      </tr>
-    </thead>
-    <tbody id="matches"></tbody>
-  </table>
-</div>
+        <div id="view-season" class="view active">
+            <div class="controls">
+                <label for="season-select">Selecciona temporada:</label>
+                <select id="season-select"></select>
+            </div>
+            
+            <div class="stats" id="stats-container">
+                </div>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Local</th>
+                        <th>Marcador</th>
+                        <th>Visitante</th>
+                        <th>Estadio</th>
+                    </tr>
+                </thead>
+                <tbody id="matches-table"></tbody>
+            </table>
+        </div>
 
-<script>
-const seasons = [];
-// *** MEJORA 1: Rango de 2000 a 2024 para coincidir con tu script de Python ***
-for (let year = 2000; year <= 2024; year++) {
-  seasons.push(year);
-}
+        <div id="view-rivals" class="view">
+            <h2>Estadísticas Head-to-Head (vs Todos los Rivales)</h2>
+            <div class="controls">
+                <label for="rival-select">Selecciona un rival:</label>
+                <select id="rival-select"></select>
+            </div>
+            <div id="rival-stats-container">
+                </div>
+            <table id="rival-matches-table">
+                </table>
+        </div>
 
-const seasonSelect = document.getElementById('season');
-const matchesTable = document.getElementById('matches');
-const statsDiv = document.getElementById('stats');
-const TEAM_NAME = "1. FC Köln"; // Definir el nombre para evitar repetición
+        <div id="view-map" class="view">
+            <h2>Mapa de Estadios (Temporada Seleccionada)</h2>
+            <p>Mostrando los estadios visitados en la temporada seleccionada.</p>
+            <div id="map-container">
+                </div>
+        </div>
 
-// Llenar el select con temporadas
-seasons.forEach(year => {
-  const option = document.createElement('option');
-  option.value = year;
-  option.textContent = `${year}/${year + 1}`; // Mostrar como "2000/2001"
-  seasonSelect.appendChild(option);
-});
+    </main>
 
-async function loadMatches(season) {
-  matchesTable.innerHTML = '<tr><td colspan="5">Cargando...</td></tr>';
-  statsDiv.innerHTML = '';
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <script>
+        const TEAM_NAME = "1. FC Köln";
+        const HOME_STADIUM_NAME = "RheinEnergieStadion";
+    </script>
 
-  try {
-    const response = await fetch(`partidos_koln/koln_${season}.json`);
-    if (!response.ok) throw new Error(`No se pudo cargar el archivo koln_${season}.json`);
-    const data = await response.json();
-
-    if (!data || data.length === 0) {
-      matchesTable.innerHTML = '<tr><td colspan="5">No hay partidos registrados para esta temporada.</td></tr>';
-      return;
-    }
-
-    // --- Calcular estadísticas ---
-    let partidos = 0;
-    let victorias = 0, empates = 0, derrotas = 0;
-    let golesFavor = 0, golesContra = 0;
-
-    // Ordenar partidos por fecha
-    data.sort((a, b) => new Date(a.matchDateTime) - new Date(b.matchDateTime));
-
-    data.forEach(match => {
-      // *** MEJORA 2: Buscar el resultado FINAL (resultTypeID === 2) ***
-      const result = match.matchResults.find(r => r.resultTypeID === 2);
-
-      // Solo contar partidos que tengan un resultado final (ya jugados)
-      if (result) {
-        partidos++; // Contar solo partidos jugados
-        let team1Score = result.pointsTeam1;
-        let team2Score = result.pointsTeam2;
-        let isColoniaLocal = match.team1.teamName === TEAM_NAME;
-
-        let coloniaScore = isColoniaLocal ? team1Score : team2Score;
-        let rivalScore = isColoniaLocal ? team2Score : team1Score;
-
-        golesFavor += coloniaScore;
-        golesContra += rivalScore;
-
-        if (coloniaScore > rivalScore) victorias++;
-        else if (coloniaScore === rivalScore) empates++;
-        else derrotas++;
-      }
-    });
-
-    // --- Mostrar estadísticas ---
-    statsDiv.innerHTML = `
-      <div class="stat-box"><strong>${partidos}</strong><h3>Partidos Jugados</h3></div>
-      <div class="stat-box" style="color: green;"><strong>${victorias}</strong><h3>Victorias</h3></div>
-      <div class="stat-box" style="color: grey;"><strong>${empates}</strong><h3>Empates</h3></div>
-      <div class="stat-box" style="color: red;"><strong>${derrotas}</strong><h3>Derrotas</h3></div>
-      <div class="stat-box"><strong>${golesFavor}</strong><h3>Goles a favor</h3></div>
-      <div class="stat-box"><strong>${golesContra}</strong><h3>Goles en contra</h3></div>
-    `;
-
-    // --- Mostrar partidos en la tabla ---
-    matchesTable.innerHTML = '';
-    data.forEach(match => {
-      const tr = document.createElement('tr');
-      // Formato de fecha más limpio
-      const date = new Date(match.matchDateTime).toLocaleDateString('es-ES', {
-          year: 'numeric', month: '2-digit', day: '2-digit'
-      });
-      
-      // *** MEJORA 2 (repetida): Buscar el resultado FINAL ***
-      const result = match.matchResults.find(r => r.resultTypeID === 2);
-      
-      const score = result ? `${result.pointsTeam1} - ${result.pointsTeam2}` : 'Pendiente';
-      const stadium = match.location?.locationStadium || 'Desconocido';
-
-      // Determinar clase de fila según resultado
-      let rowClass = '';
-      if (result) {
-        let team1Score = result.pointsTeam1;
-        let team2Score = result.pointsTeam2;
-        let isColoniaLocal = match.team1.teamName === TEAM_NAME;
-
-        let coloniaScore = isColoniaLocal ? team1Score : team2Score;
-        let rivalScore = isColoniaLocal ? team2Score : team1Score;
-
-        if (coloniaScore > rivalScore) rowClass = 'victoria';
-        else if (coloniaScore === rivalScore) rowClass = 'empate';
-        else rowClass = 'derrota';
-      }
-
-      tr.className = rowClass;
-      tr.innerHTML = `
-        <td>${date}</td>
-        <td class="team">${match.team1.teamName}</td>
-        <td class="score">${score}</td>
-        <td class="team">${match.team2.teamName}</td>
-        <td class="stadium">${stadium}</td>
-      `;
-      matchesTable.appendChild(tr);
-    });
-
-  } catch (err) {
-    matchesTable.innerHTML = `<tr><td colspan="5"><strong>Error:</strong> ${err.message}. ¿Estás seguro de que la carpeta 'partidos_koln' existe y estás usando un servidor local?</td></tr>`;
-    statsDiv.innerHTML = '';
-  }
-}
-
-seasonSelect.addEventListener('change', () => {
-  loadMatches(seasonSelect.value);
-});
-
-// Cargar la temporada más reciente por defecto al cargar la página
-const lastSeason = seasons[seasons.length - 1];
-seasonSelect.value = lastSeason;
-loadMatches(lastSeason);
-</script>
+    <script src="js/ui.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/rivals.js"></script>
+    <script src="js/app.js"></script> 
 
 </body>
 </html>
