@@ -1,57 +1,37 @@
 /**
- * ARCHIVO: js/app.js (Versión 2.0)
- * ---------------------------------
- * El "cerebro" de la aplicación. Maneja el estado, la carga de datos
- * y la orquestación de todos los módulos (ui, rivals, map).
- * * Depende de:
- * - ui.js
- * - rivals.js
- * - map.js
- * - Constantes TEAM_NAME y HOME_STADIUM_NAME (definidas en index.html)
+ * ARCHIVO: js/app.js (Versión 2.1 - CORREGIDA)
+ * -------------------------------------------
+ * CORRECCIÓN: Arreglado el bug que hacía que la tabla de Rivales (H2H) no se actualizara.
+ * MEJORA: Pasa el mapa de estadios (stadiumToTeamMap) a los módulos ui y rivals.
  */
 
-// --- Variables Globales del Módulo ---
-
 // Almacén principal de datos.
-// Forma: { 2000: [partidos...], 2001: [partidos...], ... }
 const allMatchData = {}; 
 
 // Almacén para el mapeo de Estadio -> Equipo
-// Forma: { "RheinEnergieStadion": "1. FC Köln", ... }
 let stadiumToTeamMap = {};
 
-// Objeto para cachear los elementos del DOM y no buscarlos constantemente
+// Objeto para cachear los elementos del DOM
 const DOM = {};
 
 // --- Inicio de la Aplicación ---
 
 document.addEventListener('DOMContentLoaded', initApp);
 
-/**
- * 1. Función de Inicialización Principal
- * Se llama cuando el DOM está listo.
- */
 async function initApp() {
-    console.log("Iniciando Dashboard v2.0...");
-    
-    // 1. Cachear todos los elementos del DOM para un acceso rápido
+    console.log("Iniciando Dashboard v2.1...");
     cacheDOMElements();
 
     try {
-        // 2. Cargar todos los datos (partidos JSON y mapas de estadios)
         await loadAllData();
-        
-        // 3. Rellenar los menús <select> (temporadas y rivales)
         populateAllSelects();
         
-        // 4. Inicializar el mapa de Leaflet
-        // Pasamos 'handleMarkerClick' como la función a la que llamará el mapa
+        // Pasamos la función 'handleMarkerClick' como callback al mapa
         mapModule.initMap('map-container', handleMarkerClick); 
 
-        // 5. Configurar todos los event listeners para filtros y pestañas
         setupEventListeners();
 
-        // 6. Cargar la vista por defecto (Pestaña "Resumen de Temporada")
+        // Cargar la vista por defecto (la última temporada)
         updateSeasonView();
         
         console.log("Aplicación inicializada correctamente.");
@@ -64,7 +44,6 @@ async function initApp() {
 
 /**
  * 2. Carga de Datos
- * Carga todos los JSON de partidos y el JSON de mapeo de estadios.
  */
 async function loadAllData() {
     console.log("Cargando todos los datos...");
@@ -73,10 +52,7 @@ async function loadAllData() {
     // Tarea 1: Cargar todos los JSON de partidos
     const matchDataPromises = seasons.map(season =>
         fetch(`partidos_koln/koln_${season}.json`)
-            .then(response => {
-                if (!response.ok) return; // Ignora temporadas que no existen
-                return response.json();
-            })
+            .then(response => response.ok ? response.json() : null)
             .then(data => {
                 if (data && data.length > 0) {
                     allMatchData[season] = data;
@@ -92,30 +68,26 @@ async function loadAllData() {
             return response.json();
         })
         .then(data => {
-            stadiumToTeamMap = data;
+            stadiumToTeamMap = data; // Guardar en la variable global
             console.log("Mapa Estadio->Equipo cargado.");
         });
 
-    // Esperar a que ambas tareas (todos los partidos y el mapa de estadios) terminen
     await Promise.all([...matchDataPromises, stadiumMapPromise]);
-    
     console.log("Datos cargados en 'allMatchData':", allMatchData);
 }
 
 /**
  * 3. Rellenado de Selectores
- * Rellena todos los <select> de la página.
  */
 function populateAllSelects() {
-    const loadedSeasons = Object.keys(allMatchData).sort((a, b) => b - a); // Más nuevo primero
+    const loadedSeasons = Object.keys(allMatchData).sort((a, b) => b - a);
     const allSelects = [
         DOM.seasonSelect, DOM.rivalFrom, DOM.rivalTo, DOM.mapFrom, DOM.mapTo
     ];
 
-    // Rellenar todos los selectores de temporada
     allSelects.forEach(select => {
         if (!select) return;
-        select.innerHTML = ''; // Limpiar
+        select.innerHTML = '';
         loadedSeasons.forEach(season => {
             const option = document.createElement('option');
             option.value = season;
@@ -125,12 +97,14 @@ function populateAllSelects() {
     });
 
     // Configurar valores por defecto para los rangos
-    DOM.rivalFrom.value = loadedSeasons[loadedSeasons.length - 1]; // Más antiguo
-    DOM.rivalTo.value = loadedSeasons[0]; // Más nuevo
-    DOM.mapFrom.value = loadedSeasons[loadedSeasons.length - 1]; // Más antiguo
-    DOM.mapTo.value = loadedSeasons[0]; // Más nuevo
+    const oldestSeason = loadedSeasons[loadedSeasons.length - 1] || "2000";
+    const newestSeason = loadedSeasons[0] || "2024";
+
+    DOM.rivalFrom.value = oldestSeason;
+    DOM.rivalTo.value = newestSeason;
+    DOM.mapFrom.value = oldestSeason;
+    DOM.mapTo.value = newestSeason;
     
-    // Rellenar el selector de rivales
     populateRivalSelect();
 }
 
@@ -140,8 +114,7 @@ function populateRivalSelect() {
         allMatchData[season].forEach(match => {
             const team1 = match.team1.teamName;
             const team2 = match.team2.teamName;
-            // TEAM_NAME es global desde index.html
-            rivalSet.add(team1 === TEAM_NAME ? team2 : team1); 
+            rivalSet.add(team1 === TEAM_NAME ? team2 : team1);
         });
     }
     
@@ -157,7 +130,6 @@ function populateRivalSelect() {
 
 /**
  * 4. Configuración de Eventos
- * Asigna todos los listeners para pestañas y filtros.
  */
 function setupEventListeners() {
     // Listeners de las Pestañas de Navegación
@@ -168,38 +140,34 @@ function setupEventListeners() {
         });
     });
 
-    // Listeners para la Pestaña "Temporada"
+    // Pestaña "Temporada"
     DOM.seasonSelect.addEventListener('change', updateSeasonView);
 
-    // Listeners para la Pestaña "Rivales" (cualquier filtro actualiza la vista)
+    // Pestaña "Rivales"
+    // ¡¡AQUÍ ESTABA EL BUG!!
+    // Ahora, CUALQUIER cambio en la barra de filtros llama a updateRivalsView
     DOM.rivalsFilterBar.addEventListener('change', updateRivalsView);
 
-    // Listeners para la Pestaña "Mapa" (cualquier filtro actualiza la vista)
+    // Pestaña "Mapa"
     DOM.mapFrom.addEventListener('change', updateMapView);
     DOM.mapTo.addEventListener('change', updateMapView);
 }
 
 /**
  * 5. Orquestadores de Vistas
- * Estas funciones leen los filtros y llaman a los módulos
- * de renderizado (ui, rivals, map) con los datos filtrados.
  */
 
-// Se llama al cambiar el <select> de la pestaña "Temporada"
 function updateSeasonView() {
     const selectedSeason = DOM.seasonSelect.value;
     const seasonData = allMatchData[selectedSeason] || [];
-    
     console.log(`Actualizando vista de temporada para ${selectedSeason}`);
     
-    // Llamar a ui.js para dibujar estadísticas y tabla
+    // MEJORA: Pasar el stadiumToTeamMap a la UI
     ui.displaySeasonStats(seasonData, DOM.statsContainerSeason);
-    ui.displaySeasonMatches(seasonData, DOM.matchesTableSeason);
+    ui.displaySeasonMatches(seasonData, DOM.matchesTableSeason, stadiumToTeamMap);
 }
 
-// Se llama al cambiar CUALQUIER filtro de la pestaña "Rivales"
 function updateRivalsView() {
-    // 1. Obtener todos los valores de los filtros
     const filters = {
         rival: DOM.rivalSelect.value,
         from: parseInt(DOM.rivalFrom.value),
@@ -209,111 +177,103 @@ function updateRivalsView() {
     };
     console.log("Actualizando vista de rivales con filtros:", filters);
 
-    // 2. Obtener los datos filtrados usando el motor de filtrado
     const filteredMatches = filterMatches(filters);
     
-    // 3. Llamar a rivals.js para dibujar estadísticas y tabla H2H
+    // MEJORA: Pasar el stadiumToTeamMap a la UI de rivales
     rivalsModule.displayRivalData(
         filteredMatches,
         DOM.statsContainerRivals,
-        DOM.matchesTableRivals
+        DOM.matchesTableRivals,
+        stadiumToTeamMap // <--- ¡NUEVO!
     );
 }
 
-// Se llama al cambiar CUALQUIER filtro de la pestaña "Mapa"
 function updateMapView() {
-    // 1. Obtener todos los valores de los filtros
     const filters = {
         from: parseInt(DOM.mapFrom.value),
         to: parseInt(DOM.mapTo.value)
-        // No se necesita rival, local/visitante, etc. El mapa los muestra TODOS.
     };
     console.log(`Actualizando vista de mapa para ${filters.from}-${filters.to}`);
 
-    // 2. Obtener los datos filtrados
     const filteredMatches = filterMatches(filters);
 
-    // 3. Llamar a map.js para actualizar los marcadores
+    // map.js ya carga su propio stadiumToTeamMap, solo necesita los partidos
     mapModule.updateMapData(filteredMatches);
 }
 
 /**
  * 6. Lógica de Interacción (Clic en Mapa)
- * Se llama desde map.js cuando el usuario hace clic en un marcador.
  */
-function handleMarkerClick(stadiumName) {
-    console.log(`Clic en el marcador del estadio: ${stadiumName}`);
-    // 1. Encontrar el nombre del equipo para este estadio
-    const rivalName = stadiumToTeamMap[stadiumName];
+function handleMarkerClick(rivalName) {
+    console.log(`Clic en el marcador, rival: ${rivalName}`);
+    
+    if (rivalName && rivalName === TEAM_NAME) {
+        // Si hace clic en el estadio local, ir a la pestaña de temporada
+        switchView('season');
+        // Opcional: centrarse en la temporada actual
+        DOM.seasonSelect.value = DOM.mapTo.value; // Sincroniza el selector
+        updateSeasonView();
+        return;
+    }
 
-    if (rivalName && rivalName !== TEAM_NAME) {
-        // 2. Cambiar a la pestaña "Rivales"
+    if (rivalName) {
+        // 1. Cambiar a la pestaña "Rivales"
         switchView('rivals');
         
-        // 3. Establecer el <select> de rivales al equipo correcto
+        // 2. Establecer el <select> de rivales al equipo correcto
         DOM.rivalSelect.value = rivalName;
         
-        // 4. Copiar el rango de fechas del mapa a los filtros de rivales
+        // 3. Copiar el rango de fechas del mapa a los filtros de rivales
         DOM.rivalFrom.value = DOM.mapFrom.value;
         DOM.rivalTo.value = DOM.mapTo.value;
         
-        // 5. Borrar otros filtros (local/visitante, V/E/D)
+        // 4. Borrar otros filtros
         document.getElementById('rival-loc-all').checked = true;
         document.getElementById('rival-res-all').checked = true;
         
-        // 6. Actualizar la vista de rivales
+        // 5. Actualizar la vista de rivales
         updateRivalsView();
-    } else if (rivalName === TEAM_NAME) {
-        // Si hace clic en el estadio local, ir a la pestaña de temporada
-        switchView('season');
     }
 }
 
 /**
- * 7. Motor de Filtrado
- * Función principal para filtrar 'allMatchData' basado en los controles.
- * @param {object} filters - Objeto con {from, to, rival, location, result}
- * @returns {Array} - Un array plano de partidos que coinciden.
+ * 7. Motor de Filtrado (Sin cambios)
  */
 function filterMatches(filters) {
     const { from, to, rival, location, result } = filters;
     const filteredMatches = [];
     
-    // 1. Iterar solo sobre las temporadas dentro del rango
     for (let year = from; year <= to; year++) {
-        if (!allMatchData[year]) continue; // Omitir si no hay datos para ese año
+        if (!allMatchData[year]) continue;
 
-        // 2. Iterar sobre los partidos de esa temporada
         for (const match of allMatchData[year]) {
             
-            // 3. Filtrar por Rival (si se especifica)
             if (rival) {
                 const team1 = match.team1.teamName;
                 const team2 = match.team2.teamName;
                 if (team1 !== rival && team2 !== rival) {
-                    continue; // Saltar si el rival no está en este partido
+                    continue;
                 }
             }
 
-            // 4. Filtrar por Localización (si se especifica)
             const isHome = match.team1.teamName === TEAM_NAME;
             if (location === 'home' && !isHome) continue;
             if (location === 'away' && isHome) continue;
 
-            // 5. Filtrar por Resultado (si se especifica)
             if (result && result !== 'all') {
-                const finalResult = ui.getFinalResult(match); // Usamos la función de ui.js
-                if (!finalResult) continue; // Omitir partidos sin resultado
+                const finalResult = ui.getFinalResult(match);
+                if (!finalResult) continue; 
 
                 const coloniaScore = isHome ? finalResult.pointsTeam1 : finalResult.pointsTeam2;
                 const rivalScore = isHome ? finalResult.pointsTeam2 : finalResult.pointsTeam1;
+
+                if (typeof coloniaScore !== 'number' || typeof rivalScore !== 'number') continue;
 
                 if (result === 'W' && coloniaScore <= rivalScore) continue;
                 if (result === 'D' && coloniaScore !== rivalScore) continue;
                 if (result === 'L' && coloniaScore >= rivalScore) continue;
             }
             
-            // Si pasa todos los filtros, añadirlo a la lista
             filteredMatches.push(match);
         }
     }
@@ -348,15 +308,11 @@ function cacheDOMElements() {
 }
 
 function switchView(viewName) {
-    // Ocultar todas las vistas y desactivar todos los botones
     DOM.views.forEach(v => v.classList.remove('active'));
     DOM.navButtons.forEach(b => b.classList.remove('active'));
-
-    // Mostrar la vista y el botón correctos
     document.getElementById(`view-${viewName}`).classList.add('active');
     document.getElementById(`nav-${viewName}`).classList.add('active');
     
-    // Si la vista es el mapa, refrescar su tamaño
     if (viewName === 'map') {
         mapModule.refreshMap();
     }

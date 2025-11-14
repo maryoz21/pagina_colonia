@@ -1,73 +1,88 @@
 /**
- * ARCHIVO: js/ui.js
- * -----------------
- * Este es el módulo de la Interfaz de Usuario (UI).
- * NO carga datos ni maneja clics (eso lo hace app.js).
- * Su ÚNICO trabajo es recibir datos y "dibujar" el HTML.
- * * Expone un objeto global 'ui' con métodos para ser llamados
- * desde app.js.
+ * ARCHIVO: js/ui.js (Versión 2.1 - MEJORADA)
+ * -----------------------------------------
+ * MEJORA: Las tablas ahora infieren el nombre del estadio si
+ * no está presente en los datos del partido, usando el stadiumToTeamMap.
  */
 
-// Usamos un Patrón Módulo "IIFE" (Immediately Invoked Function Expression)
-// Esto crea un objeto global 'ui' y mantiene el resto de variables privadas.
 const ui = (() => {
 
     // --- Funciones Privadas (Ayudantes) ---
-
-    /**
-     * Obtiene el resultado final (Tipo 2) de un partido.
-     * @param {object} match - El objeto del partido de la API.
-     * @returns {object|null} El objeto del resultado final, o null si no existe.
-     */
-    function getFinalResult(match) {
-        // El tipo '2' es el resultado final (tiempo reglamentario)
-        return match.matchResults.find(r => r.resultTypeID === 2) || null;
-    }
-
-    /**
-     * Formatea una fecha ISO (de la API) a un formato legible.
-     * @param {string} dateString - La fecha en formato ISO (p.ej. "2023-08-19T18:30:00")
-     * @returns {string} Fecha formateada (p.ej. "19/08/2023")
-     */
     function formatDate(dateString) {
         return new Date(dateString).toLocaleDateString('es-ES', {
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit'
+            year: 'numeric', month: '2-digit', day: '2-digit'
         });
     }
 
-    // --- Funciones Públicas (Las que usa app.js) ---
+    /**
+     * ¡NUEVO! Ayudante para inferir el estadio.
+     * @param {object} match - El objeto del partido.
+     * @param {object} stadiumMap - El mapa de estadio->equipo.
+     * @returns {string} El nombre del estadio.
+     */
+    function getStadiumName(match, stadiumMap) {
+        // 1. Probar el dato original
+        const originalStadium = match.location?.locationStadium;
+        if (originalStadium && originalStadium.trim() !== "" && originalStadium.trim() !== "Desconocido") {
+            return originalStadium.trim();
+        }
+
+        // 2. Si falla, inferir
+        // TEAM_NAME y HOME_STADIUM_NAME son globales de index.html
+        const isHome = match.team1.teamName === TEAM_NAME;
+        
+        if (isHome) {
+            return HOME_STADIUM_NAME; // Siempre es el estadio local
+        } else {
+            // Es partido fuera. Buscar el estadio del rival (team1)
+            const rivalName = match.team1.teamName;
+            
+            // Buscar en el mapa qué estadio pertenece a ese rival
+            // (Esta es una búsqueda "inversa" clave-valor)
+            const stadium = Object.keys(stadiumMap).find(key => stadiumMap[key] === rivalName);
+            
+            return stadium || "Estadio Desconocido"; // Fallback final
+        }
+    }
+
+
+    // --- Funciones Públicas (Exportadas) ---
 
     /**
-     * Dibuja las cajas de estadísticas de la temporada.
-     * @param {Array} seasonData - Array de partidos de la temporada.
-     * @param {HTMLElement} container - El elemento <div> donde se insertará el HTML.
+     * Obtiene el resultado final (Tipo 2 o 0).
      */
-    function displayStats(seasonData, container) {
-        let partidos = 0;
-        let victorias = 0;
-        let empates = 0;
-        let derrotas = 0;
-        let golesFavor = 0;
-        let golesContra = 0;
+    function getFinalResult(match) {
+        if (!match || !match.matchResults || match.matchResults.length === 0) return null;
+        
+        let finalResult = match.matchResults.find(r => r.resultTypeID === 2); // Moderno
+        if (finalResult) return finalResult;
+
+        finalResult = match.matchResults.find(r => r.resultTypeID === 0); // Antiguo
+        if (finalResult) return finalResult;
+
+        if (match.matchResults.length === 1 && match.matchResults[0].resultTypeID !== 1) {
+            return match.matchResults[0];
+        }
+        return null;
+    }
+
+    /**
+     * Dibuja las cajas de estadísticas para la vista "Temporada".
+     * (Sin cambios en la lógica interna)
+     */
+    function displaySeasonStats(seasonData, container) {
+        let partidos = 0, victorias = 0, empates = 0, derrotas = 0, golesFavor = 0, golesContra = 0;
 
         seasonData.forEach(match => {
             const result = getFinalResult(match);
-
-            // Solo contamos partidos con resultado final (ya jugados)
             if (result) {
                 partidos++;
-                const team1Score = result.pointsTeam1;
-                const team2Score = result.pointsTeam2;
-                // TEAM_NAME es la constante global definida en app.js
                 const isColoniaLocal = match.team1.teamName === TEAM_NAME;
+                const coloniaScore = isColoniaLocal ? result.pointsTeam1 : result.pointsTeam2;
+                const rivalScore = isColoniaLocal ? result.pointsTeam2 : result.pointsTeam1;
 
-                const coloniaScore = isColoniaLocal ? team1Score : team2Score;
-                const rivalScore = isColoniaLocal ? team2Score : team1Score;
-
-                golesFavor += coloniaScore;
-                golesContra += rivalScore;
+                if (typeof coloniaScore === 'number') golesFavor += coloniaScore;
+                if (typeof rivalScore === 'number') golesContra += rivalScore;
 
                 if (coloniaScore > rivalScore) victorias++;
                 else if (coloniaScore === rivalScore) empates++;
@@ -75,42 +90,41 @@ const ui = (() => {
             }
         });
 
-        // Generar el HTML
         container.innerHTML = `
             <div class="stat-box"><strong>${partidos}</strong><h3>Partidos Jugados</h3></div>
-            <div class="stat-box" style="color: green;"><strong>${victorias}</strong><h3>Victorias</h3></div>
-            <div class="stat-box" style="color: grey;"><strong>${empates}</strong><h3>Empates</h3></div>
-            <div class="stat-box" style="color: red;"><strong>${derrotas}</strong><h3>Derrotas</h3></div>
+            <div class="stat-box victoria"><strong>${victorias}</strong><h3>Victorias</h3></div>
+            <div class="stat-box empate"><strong>${empates}</strong><h3>Empates</h3></div>
+            <div class="stat-box derrota"><strong>${derrotas}</strong><h3>Derrotas</h3></div>
             <div class="stat-box"><strong>${golesFavor}</strong><h3>Goles a favor</h3></div>
             <div class="stat-box"><strong>${golesContra}</strong><h3>Goles en contra</h3></div>
         `;
     }
 
     /**
-     * Dibuja la tabla de partidos de la temporada.
-     * @param {Array} seasonData - Array de partidos de la temporada.
-     * @param {HTMLElement} tableBody - El elemento <tbody> donde se insertarán las filas.
+     * Dibuja la tabla de partidos para la vista "Temporada".
+     * @param {Array} seasonData - Array de partidos.
+     * @param {HTMLElement} tableBody - El <tbody>.
+     * @param {object} stadiumMap - El mapa de estadio->equipo.
      */
-    function displayMatchesTable(seasonData, tableBody) {
-        // Limpiar la tabla anterior
+    function displaySeasonMatches(seasonData, tableBody, stadiumMap) {
         tableBody.innerHTML = '';
-
         if (seasonData.length === 0) {
-            tableBody.innerHTML = '<tr><td colspan="5">No hay partidos registrados para esta temporada.</td></tr>';
+            tableBody.innerHTML = '<tr><td colspan="6">No hay partidos registrados.</td></tr>';
             return;
         }
         
-        // Ordenar partidos por fecha (ascendente)
         const sortedData = [...seasonData].sort((a, b) => new Date(a.matchDateTime) - new Date(b.matchDateTime));
 
         sortedData.forEach(match => {
             const tr = document.createElement('tr');
             const result = getFinalResult(match);
-
             const score = result ? `${result.pointsTeam1} - ${result.pointsTeam2}` : 'Pendiente';
-            const stadium = match.location?.locationStadium || 'Desconocido';
+            
+            // *** ¡LÓGICA MEJORADA! ***
+            const stadium = getStadiumName(match, stadiumMap);
+            
+            const matchday = match.group.groupName.replace(' Spieltag', '. Jor');
 
-            // Determinar clase de fila (victoria, empate, derrota)
             let rowClass = '';
             if (result) {
                 const isColoniaLocal = match.team1.teamName === TEAM_NAME;
@@ -125,6 +139,7 @@ const ui = (() => {
             tr.className = rowClass;
             tr.innerHTML = `
                 <td>${formatDate(match.matchDateTime)}</td>
+                <td>${matchday}</td>
                 <td class="team">${match.team1.teamName}</td>
                 <td class="score">${score}</td>
                 <td class="team">${match.team2.teamName}</td>
@@ -134,10 +149,11 @@ const ui = (() => {
         });
     }
 
-    // Exponer las funciones públicas para que app.js pueda usarlas
+    // Exponer las funciones públicas
     return {
-        displayStats,
-        displayMatchesTable
+        getFinalResult, // ¡Ahora es pública!
+        displaySeasonStats,
+        displaySeasonMatches
     };
 
 })(); // Fin del módulo ui

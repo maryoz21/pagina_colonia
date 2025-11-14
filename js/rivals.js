@@ -1,97 +1,63 @@
 /**
- * ARCHIVO: js/rivals.js
- * ---------------------
- * Este es el módulo de la pestaña "Contra Rivales".
- * Se encarga de:
- * 1. Filtrar todos los partidos jugados contra un rival específico.
- * 2. Calcular y mostrar las estadísticas H2H (Head-to-Head).
- * 3. Mostrar una tabla con el historial de partidos contra ese rival.
+ * ARCHIVO: js/rivals.js (Versión 2.1 - MEJORADA)
+ * ---------------------------------------------
+ * MEJORA: La tabla H2H ahora también infiere el nombre del estadio.
  */
 
-// Usamos el mismo patrón módulo (IIFE) para crear un objeto global 'rivalsModule'
 const rivalsModule = (() => {
 
     // --- Funciones Privadas (Ayudantes) ---
-
-    /**
-     * Obtiene el resultado final (Tipo 2) de un partido.
-     * @param {object} match - El objeto del partido de la API.
-     * @returns {object|null} El objeto del resultado final, o null si no existe.
-     */
-    function getFinalResult(match) {
-        return match.matchResults.find(r => r.resultTypeID === 2) || null;
-    }
-
-    /**
-     * Formatea una fecha ISO (de la API) a un formato legible.
-     * @param {string} dateString - La fecha en formato ISO.
-     * @returns {string} Fecha formateada (p.ej. "19/08/2023")
-     */
     function formatDate(dateString) {
         return new Date(dateString).toLocaleDateString('es-ES', {
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit'
+            year: 'numeric', month: '2-digit', day: '2-digit'
         });
     }
 
     /**
-     * Filtra todos los partidos contra un rival específico de entre todos los datos.
-     * @param {string} rivalName - El nombre del rival.
-     * @param {object} allData - El objeto 'allMatchData' con todas las temporadas.
-     * @returns {Array} Una lista de todos los partidos jugados contra ese rival.
+     * ¡NUEVO! Ayudante para inferir el estadio (duplicado de ui.js para este módulo)
      */
-    function filterMatchesByRival(rivalName, allData) {
-        const rivalMatches = [];
-        // TEAM_NAME es la constante global definida en app.js
-        
-        for (const season in allData) {
-            for (const match of allData[season]) {
-                const team1 = match.team1.teamName;
-                const team2 = match.team2.teamName;
-
-                if ((team1 === TEAM_NAME && team2 === rivalName) || (team1 === rivalName && team2 === TEAM_NAME)) {
-                    rivalMatches.push(match);
-                }
-            }
+    function getStadiumName(match, stadiumMap) {
+        const originalStadium = match.location?.locationStadium;
+        if (originalStadium && originalStadium.trim() !== "" && originalStadium.trim() !== "Desconocido") {
+            return originalStadium.trim();
         }
-        // Ordenar por fecha, del más reciente al más antiguo
-        rivalMatches.sort((a, b) => new Date(b.matchDateTime) - new Date(a.matchDateTime));
-        return rivalMatches;
+        
+        // TEAM_NAME y HOME_STADIUM_NAME son globales de index.html
+        const isHome = match.team1.teamName === TEAM_NAME;
+        
+        if (isHome) {
+            return HOME_STADIUM_NAME;
+        } else {
+            const rivalName = match.team1.teamName;
+            const stadium = Object.keys(stadiumMap).find(key => stadiumMap[key] === rivalName);
+            return stadium || "Estadio Desconocido";
+        }
     }
 
-    // --- Función Pública (La que usa app.js) ---
+    // --- Función Pública (Llamada por app.js) ---
 
     /**
-     * Calcula y muestra todos los datos H2H contra un rival.
-     * @param {string} rivalName - El nombre del rival seleccionado.
-     * @param {object} allData - El objeto 'allMatchData' global.
+     * Calcula y muestra todos los datos H2H para una lista de partidos pre-filtrada.
+     * @param {Array} filteredMatches - La lista de partidos ya filtrada.
      * @param {HTMLElement} statsContainer - El <div> para las cajas de estadísticas.
-     * @param {HTMLElement} tableBody - El <tbody> para la tabla de partidos.
+     * @param {HTMLElement} tableElement - El <table> para la tabla de partidos.
+     * @param {object} stadiumMap - El mapa de estadio->equipo.
      */
-    function displayRivalData(rivalName, allData, statsContainer, tableBody) {
+    function displayRivalData(filteredMatches, statsContainer, tableElement, stadiumMap) {
         
-        // 1. Obtener todos los partidos contra este rival
-        const rivalMatches = filterMatchesByRival(rivalName, allData);
+        // 1. Calcular estadísticas H2H
+        let partidos = 0, victorias = 0, empates = 0, derrotas = 0, golesFavor = 0, golesContra = 0;
 
-        // 2. Calcular estadísticas H2H
-        let partidos = 0;
-        let victorias = 0;
-        let empates = 0;
-        let derrotas = 0;
-        let golesFavor = 0;
-        let golesContra = 0;
-
-        rivalMatches.forEach(match => {
-            const result = getFinalResult(match);
+        filteredMatches.forEach(match => {
+            const result = ui.getFinalResult(match); // Usa la función pública de ui.js
             if (result) {
                 partidos++;
                 const isColoniaLocal = match.team1.teamName === TEAM_NAME;
                 const coloniaScore = isColoniaLocal ? result.pointsTeam1 : result.pointsTeam2;
                 const rivalScore = isColoniaLocal ? result.pointsTeam2 : result.pointsTeam1;
 
-                golesFavor += coloniaScore;
-                golesContra += rivalScore;
+                if (typeof coloniaScore === 'number') golesFavor += coloniaScore;
+                if (typeof rivalScore === 'number') golesContra += rivalScore;
 
                 if (coloniaScore > rivalScore) victorias++;
                 else if (coloniaScore === rivalScore) empates++;
@@ -99,25 +65,23 @@ const rivalsModule = (() => {
             }
         });
 
-        // 3. Dibujar las cajas de estadísticas H2H
+        // 2. Dibujar las cajas de estadísticas H2H
         statsContainer.innerHTML = `
             <div class="stat-box"><strong>${partidos}</strong><h3>Partidos Jugados</h3></div>
-            <div class="stat-box" style="color: green;"><strong>${victorias}</strong><h3>Victorias (Köln)</h3></div>
-            <div class="stat-box" style="color: grey;"><strong>${empates}</strong><h3>Empates</h3></div>
-            <div class="stat-box" style="color: red;"><strong>${derrotas}</strong><h3>Derrotas (Köln)</h3></div>
+            <div class="stat-box victoria"><strong>${victorias}</strong><h3>Victorias (Köln)</h3></div>
+            <div class="stat-box empate"><strong>${empates}</strong><h3>Empates</h3></div>
+            <div class="stat-box derrota"><strong>${derrotas}</strong><h3>Derrotas (Köln)</h3></div>
             <div class="stat-box"><strong>${golesFavor}</strong><h3>Goles a favor</h3></div>
             <div class="stat-box"><strong>${golesContra}</strong><h3>Goles en contra</h3></div>
         `;
 
-        // 4. Dibujar la tabla de partidos H2H
-        tableBody.innerHTML = ''; // Limpiar
-        
-        // Si no hay tabla en el HTML de rivales, creamos una dinámicamente
-        // (En nuestro index.html ya la definimos, pero esto es más robusto)
+        // 3. Dibujar la tabla de partidos H2H
         let tableHeader = `
             <thead>
                 <tr>
                     <th>Fecha</th>
+                    <th>Temp.</th>
+                    <th>Jor.</th>
                     <th>Local</th>
                     <th>Marcador</th>
                     <th>Visitante</th>
@@ -127,15 +91,21 @@ const rivalsModule = (() => {
         
         let tableRows = '';
         
-        if (rivalMatches.length === 0) {
-            tableRows = '<tr><td colspan="5">No se encontraron partidos contra este rival.</td></tr>';
+        if (filteredMatches.length === 0) {
+            tableRows = '<tr><td colspan="7">No se encontraron partidos con los filtros seleccionados.</td></tr>';
         } else {
-            rivalMatches.forEach(match => {
-                const result = getFinalResult(match);
-                const score = result ? `${result.pointsTeam1} - ${result.pointsTeam2}` : 'Pendiente';
-                const stadium = match.location?.locationStadium || 'Desconocido';
+            // Ordenar por fecha, del más reciente al más antiguo
+            const sortedMatches = [...filteredMatches].sort((a, b) => new Date(b.matchDateTime) - new Date(a.matchDateTime));
 
-                // Determinar clase de fila
+            sortedMatches.forEach(match => {
+                const result = ui.getFinalResult(match);
+                const score = result ? `${result.pointsTeam1} - ${result.pointsTeam2}` : 'Pendiente';
+                
+                // *** ¡LÓGICA MEJORADA! ***
+                const stadium = getStadiumName(match, stadiumMap);
+                const season = match.leagueSeason;
+                const matchday = match.group.groupName.replace(' Spieltag', '. Jor');
+
                 let rowClass = '';
                 if (result) {
                     const isColoniaLocal = match.team1.teamName === TEAM_NAME;
@@ -150,6 +120,8 @@ const rivalsModule = (() => {
                 tableRows += `
                     <tr class="${rowClass}">
                         <td>${formatDate(match.matchDateTime)}</td>
+                        <td>${season}/${season+1}</td>
+                        <td>${matchday}</td>
                         <td class="team">${match.team1.teamName}</td>
                         <td class="score">${score}</td>
                         <td class="team">${match.team2.teamName}</td>
@@ -159,9 +131,6 @@ const rivalsModule = (() => {
             });
         }
         
-        // Asumimos que el elemento que nos pasan es la tabla completa 
-        // (según nuestro HTML, es 'rival-matches-table')
-        const tableElement = document.getElementById('rival-matches-table');
         tableElement.innerHTML = tableHeader + `<tbody>${tableRows}</tbody>`;
     }
 
