@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1. FC Köln - Estadísticas</title>
+    <title>1. FC Köln - Dashboard de Estadísticas</title>
     
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     
@@ -12,55 +12,124 @@
 <body>
 
     <header>
-        <h1>1. FC Köln - Estadísticas</h1>
+        <div class="header-container container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1200px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png" alt="Logo 1. FC Köln" class="logo">
+            <h1>Dashboard de Estadísticas</h1>
+        </div>
     </header>
 
-    <nav class="container">
-        <button id="nav-season" class="nav-button active">Por Temporada</button>
-        <button id="nav-rivals" class="nav-button">Contra Rivales (H2H)</button>
-        <button id="nav-map" class="nav-button">Mapa de Estadios</button>
+    <nav class="nav-tabs container">
+        <button id="nav-season" class="nav-button active" data-view="season">Resumen de Temporada</button>
+        <button id="nav-rivals" class="nav-button" data-view="rivals">Rivales (H2H)</button>
+        <button id="nav-map" class="nav-button" data-view="map">Mapa de Partidos</button>
     </nav>
 
     <main class="container">
 
         <div id="view-season" class="view active">
-            <div class="controls">
-                <label for="season-select">Selecciona temporada:</label>
-                <select id="season-select"></select>
+            <div class="controls-bar">
+                <div class="control-group">
+                    <label for="season-select-single">Selecciona temporada:</label>
+                    <select id="season-select-single"></select>
+                </div>
             </div>
             
-            <div class="stats" id="stats-container">
+            <div class="stats" id="stats-container-season">
                 </div>
             
+            <h2>Partidos de la Temporada</h2>
             <table>
                 <thead>
                     <tr>
                         <th>Fecha</th>
+                        <th>Jor.</th>
                         <th>Local</th>
                         <th>Marcador</th>
                         <th>Visitante</th>
                         <th>Estadio</th>
                     </tr>
                 </thead>
-                <tbody id="matches-table"></tbody>
+                <tbody id="matches-table-season"></tbody>
             </table>
         </div>
 
         <div id="view-rivals" class="view">
-            <h2>Estadísticas Head-to-Head (vs Todos los Rivales)</h2>
-            <div class="controls">
-                <label for="rival-select">Selecciona un rival:</label>
-                <select id="rival-select"></select>
-            </div>
-            <div id="rival-stats-container">
+            <h2>Estadísticas Head-to-Head</h2>
+            <div class="controls-bar" id="rivals-filter-bar">
+                <div class="control-row">
+                    <div class="control-group">
+                        <label for="rival-select">Rival:</label>
+                        <select id="rival-select"></select>
+                    </div>
+                    <div class="control-group">
+                        <label for="rival-season-from">Desde:</label>
+                        <select id="rival-season-from"></select>
+                    </div>
+                    <div class="control-group">
+                        <label for="rival-season-to">Hasta:</label>
+                        <select id="rival-season-to"></select>
+                    </div>
                 </div>
-            <table id="rival-matches-table">
-                </table>
+                <div class="control-row filter-row">
+                    <div class="control-group">
+                        <label>Localización:</label>
+                        <div class="radio-group">
+                            <input type="radio" id="rival-loc-all" name="rival-location" value="all" checked>
+                            <label for="rival-loc-all">Todos</label>
+                            <input type="radio" id="rival-loc-home" name="rival-location" value="home">
+                            <label for="rival-loc-home">Local</label>
+                            <input type="radio" id="rival-loc-away" name="rival-location" value="away">
+                            <label for="rival-loc-away">Visitante</label>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label>Resultado:</label>
+                        <div class="radio-group">
+                            <input type="radio" id="rival-res-all" name="rival-result" value="all" checked>
+                            <label for="rival-res-all">Todos</label>
+                            <input type="radio" id="rival-res-w" name="rival-result" value="W">
+                            <label for="rival-res-w" class="victoria-label">V</label>
+                            <input type="radio" id="rival-res-d" name="rival-result" value="D">
+                            <label for="rival-res-d" class="empate-label">E</label>
+                            <input type="radio" id="rival-res-l" name="rival-result" value="L">
+                            <label for="rival-res-l" class="derrota-label">D</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="stats" id="stats-container-rivals">
+                </div>
+            
+            <h2>Historial de Partidos</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Temp.</th>
+                        <th>Jor.</th>
+                        <th>Local</th>
+                        <th>Marcador</th>
+                        <th>Visitante</th>
+                    </tr>
+                </thead>
+                <tbody id="matches-table-rivals"></tbody>
+            </table>
         </div>
 
         <div id="view-map" class="view">
-            <h2>Mapa de Estadios (Temporada Seleccionada)</h2>
-            <p>Mostrando los estadios visitados en la temporada seleccionada.</p>
+            <h2>Mapa de Estadios Visitados</h2>
+            <div class="controls-bar">
+                <div class="control-group">
+                    <label for="map-season-from">Desde:</label>
+                    <select id="map-season-from"></select>
+                </div>
+                <div class="control-group">
+                    <label for="map-season-to">Hasta:</label>
+                    <select id="map-season-to"></select>
+                </div>
+            </div>
+            <p>Pasa el ratón sobre un estadio para ver las estadísticas del Köln en ese campo (en el rango de temporadas seleccionado). Haz clic para ver el historial contra ese equipo.</p>
             <div id="map-container">
                 </div>
         </div>
